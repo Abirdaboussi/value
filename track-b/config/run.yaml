@@ -1,0 +1,6 @@
+target_summary_words: 1100
+temperature: 0.2
+seed: 42
+max_tokens: 1600
+ctx_budget: 8000
+chunk_overlap: 200

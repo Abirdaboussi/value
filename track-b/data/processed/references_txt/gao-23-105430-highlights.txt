@@ -1,0 +1,175 @@
+ 
+ 
+ 
+United States Government Accountability Office 
+  
+Highlights of GAO-23-105430, a report to 
+congressional committees 
+July 2023 
+ TECHNOLOGY ASSESSMENT  
+ 
+Regenerative Medicine 
+Therapeutic Applications, Challenges, and 
+Policy Options 
+What GAO found 
+Regenerative medicine offers the hope of being able to restore or replace cell, 
+tissue, and organ functions affected by disease, injury, or aging. This may eventually 
+help manage or cure many conditions that are currently considered chronic, 
+untreatable, or terminal. 
+Examples of Diseases and Regenerative Medicine Therapies That Might Address Them 
+ 
+GAO identified many challenges that may affect the development and use of 
+regenerative medicine technologies and therapies including: 
+Challenges related to standardization. Standards are rules, conditions, guidelines, 
+or agreed-upon practices that are adopted within an industry to provide developers 
+with a common framework and promote consistency. Developing regenerative 
+medicine standards is challenging because these technologies and therapies are 
+complex and rapidly evolving. In addition, standards require consensus from 
+stakeholders, which may be difficult to obtain. 
+Challenges related to regulation. The Food and Drug Administration (FDA) ensures 
+the safety, efficacy, and security of human medical products in the U.S. through 
+regulation. Regenerative medicine faces challenges related to regulation, including 
+difficulty navigating a complex regulatory framework, uncertainty over which 
+regulatory pathway is most appropriate for certain emerging technologies and 
+therapies, and staffing shortages at FDA and collaborating agencies. 
+Challenges related to manufacturing. Manufacturing is the creation of products 
+from starting materials, in a way that is generally consistent and reproducible. It is a 
+key step for many emerging technologies and therapies, but the cells, tissues, and 
+organs used for regenerative medicine are complex and difficult to manufacture at 
+scale. Other challenges related to manufacturing include a lack of infrastructure and 
+difficulty ensuring quality and consistency.
+View GAO-23-105430. For more information, 
+contact Karen L. Howard at (202) 512-6888 
+or HowardK@gao.gov. 
+Why GAO did this study 
+Regenerative medicine represents a 
+paradigm shift in the medical field 
+because it aims to restore or 
+supplement function, rather than just 
+treating symptoms, and opens the 
+door for personalized therapies.  
+GAO conducted an assessment of 
+current and emerging regenerative 
+medicine technologies and 
+therapeutic applications. This report 
+examines (1) current and emerging 
+regenerative medicine technologies 
+and therapies and their potential 
+benefits, (2) challenges that hinder 
+their development and use, and (3) 
+policy options that could help 
+enhance benefits and mitigate 
+challenges associated with these 
+technologies and therapies. 
+GAO reviewed scientific and policy 
+literature and other key reports;  
+convened a 3-day expert meeting; 
+and interviewed subject matter 
+experts and stakeholder groups 
+including government agencies, such 
+as the Department of Health and 
+Human Services, non-government 
+organizations, industry, academia, 
+end user groups such as patient 
+groups. GAO is identifying policy 
+options in this report. 
+
+ 
+ 
+GAO developed 11 policy options that could help address the challenges or enhance the benefits of regenerative medicine. 
+These policy options are provided to inform policymakers of potential actions to address the policy challenges identified in this 
+technology assessment. They identify possible actions by policymakers, which include Congress, federal agencies, state and 
+local governments, academic and research institutions, and industry. Policymakers would need to consider the impacts these 
+new technologies will have on existing federal programs that are already strained. We suggested possible federal components 
+for the policy options. See tables 1-3 for a full list of the policy options, potential implementation approaches, and 
+opportunities and considerations. 
+Selected Policy Options to Mitigate Challenges Associated with Regenerative Medicine Technologies and Therapies  
+Selected policy option 
+Opportunities 
+Considerations 
+Invest in standards development. 
+(report p. 25) 
+This policy option could help address the 
+challenge that standards require consensus. 
+ Could streamline standards development, 
+which may, in turn, accelerate innovation, 
+increase product safety and reliability, 
+accelerate regulatory review, and decrease 
+costs of regenerative medicine therapies. 
+ 
+ Existing organizations may not include all 
+stakeholders, and stakeholders may 
+hesitate to accept standards created 
+without their input. 
+ Industry stakeholders may hesitate to 
+adopt standards if they perceive it will 
+cost them a controlling position in the 
+market. 
+ Standards should be appropriately 
+flexible to allow for innovation, while still 
+being detailed and specific enough to 
+support manufacturing of consistent, 
+quality products.  
+Provide opportunities for increased 
+interactions between regulatory 
+experts (at FDA or in industry) and 
+smaller companies, especially early in 
+the development process (report p. 31) 
+This policy option could help address the 
+lack of access to regulatory expertise.  
+ May provide more timely advice and avoid 
+unnecessary delays or uncertainty by pursuing 
+the wrong regulatory pathways or submitting 
+data that do not meet regulatory 
+requirements. 
+ 
+ May require additional resources to 
+bolster the workforce of regulatory 
+scientists at FDA or public-private 
+partnerships. 
+ FDA may be limited in its ability to advise 
+companies early in the process so as not 
+to create a conflict of interest. 
+ 
+Consider whether changes to the 
+framework for evaluating combination 
+products and medical devices to 
+accommodate emerging technologies 
+and therapies may be necessary. 
+(report p. 32) 
+This policy option could help address 
+whether current regulatory pathways are 
+sufficient for emerging technologies and 
+therapies. 
+ May encourage innovators, researchers, and 
+developers of new products to provide 
+valuable feedback to regulators. 
+ 
+ Coordinating among stakeholders to 
+consider changes to regulatory pathways 
+may be time- and resource-intensive. 
+ If such consideration leads to 
+recommended changes to the 
+framework, statutory and regulatory 
+changes may be necessary. 
+ 
+Provide more oversight and feedback 
+to suppliers to increase consistency in 
+starting materials (report p. 39) 
+This policy option could help address 
+inconsistency in starting materials for 
+manufacturing.  
+ May accelerate manufacturing by reducing 
+variation in input materials. 
+ May reduce the risk of failure during product 
+development. 
+ 
+ Starting material suppliers may lack 
+incentives to follow standards if they 
+lead to higher costs. 
+ 
+Source: GAO.  |  GAO-23-105430 
+ 
+ 
+ 
+ 

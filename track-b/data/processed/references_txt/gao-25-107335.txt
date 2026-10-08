@@ -1,0 +1,185 @@
+ 
+ 
+ 
+United States Government Accountability Office 
+  
+Highlights of GAO-25-107335, a report to 
+congressional addressees 
+May 2025 
+ TECHNOLOGY ASSESSMENT  
+ 
+Human Organ-on-a-Chip 
+Technologies Offer Benefits Over Animal 
+Testing but Challenges Limit Wider Adoption 
+What GAO found 
+Human organ-on-a-chip (OOC) is an emerging technology that incorporates human adult 
+cells in a small laboratory device to mimic how organs work—such as the brain, heart, or 
+lungs. OOCs may be designed to simulate the mechanics of human organs, such as a 
+lung-on-a-chip that stretches to simulate breathing. Researchers are developing and 
+using OOCs to model diseases and predict responses to chemicals. For example, 
+companies are using OOCs to assess aspects of drug safety and efficacy. Because OOCs 
+contain human cells, their use in research may have more relevance to humans than 
+animal testing or other conventional lab methods, but certain OOC research may cost 
+more and take longer. Currently, OOCs cannot replace animal testing but may be used 
+alongside animals. The next generation of OOC is focused on developing “body-on-a-
+chip” systems that link together multiple OOCs—such as the intestine, liver, and 
+kidney—to investigate how organs interact. 
+Lung-on-a-chip (left) and how organ-on-a-chip compares to animals (right)   
+ 
+GAO identified several challenges to the development and use of OOCs, including  
+Obtaining human cells. Reliable human cells are a key requirement for using OOCs, 
+but availability is limited. For example, experts told GAO that only 10 percent to 20 
+percent of human cells they purchase are high enough quality for OOC studies. 
+Lack of benchmarks and validation studies. The lack of benchmarks and sufficient 
+studies assessing OOC accuracy, reliability, and relevance hinders the ability of end 
+users, such as drug companies, to understand how OOCs compare to conventional 
+methods, including animals, and data from clinical trials.  
+Limited data sharing. OOC developers and end users may be reluctant or lack 
+capacity to share their OOC research findings. For example, companies may be 
+concerned about intellectual property and loss of competitive advantages.  
+Regulatory uncertainties. Regulators are still working to better understand OOCs. 
+Meanwhile, experts told GAO that the OOC field faces regulatory uncertainties, 
+including regulators’ lower level of familiarity with OOCs than other methods, and 
+unclear guidance and messaging from the U.S. Food and Drug Administration. 
+View GAO-25-107335. For more information, 
+contact Karen L. Howard, PhD, at 
+HowardK@gao.gov. 
+Why GAO did this study 
+Biomedical researchers face challenges 
+investigating human biology, disease, 
+and the body’s responses to external 
+chemicals, including medicines. 
+Conventional methods—such as 
+animal testing and cells in a petri 
+dish—often do not translate into 
+similar results for humans because 
+they cannot effectively replicate the 
+complex systems of the human body. 
+In the past decade, however, 
+researchers in the pharmaceutical, 
+chemical, and biodefense industries 
+have begun developing and using 
+OOCs to help improve our 
+understanding of human disease and 
+responses to drugs and other 
+chemicals.  
+This technology assessment examines 
+(1) current and emerging OOC 
+technologies and their potential 
+benefits, (2) challenges to developing 
+and using these technologies, and (3) 
+options that policymakers could 
+consider to help enhance the benefits 
+or mitigate the challenges. 
+To conduct this work, GAO reviewed 
+scientific literature and federal agency 
+documents; interviewed a range of 
+experts from government, industry, 
+academia, and nonprofit organizations; 
+and convened a discussion group of 16 
+experts. Participants included federal 
+agency officials, policy experts, and 
+OOC developers and end users from 
+industry and academia. GAO is 
+identifying policy options in this report 
+(see next page). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+GAO developed six policy options that could help mitigate challenges to OOC development and use, including the option to 
+maintain the status quo. The options identify possible actions by policymakers, including legislative bodies, government 
+entities, academia, industry, and other groups. See tables 1–6 in this report for additional policy options and details. 
+Selected Policy Options to Help Mitigate Challenges to the Development and Use of Organ-on-a-Chip (OOC) Technologies 
+Selected policy option 
+Opportunities 
+Considerations 
+Support efforts to increase access to 
+diverse, high-quality human cells  
+(report p. 25) 
+ 
+For example, federal entities, together with 
+stakeholders from academia and industry, 
+could support the establishment of high-
+quality cell banks and biospecimen 
+repositories that incorporate population 
+diversity. 
+• Could provide OOC developers and end users 
+with a supply of diverse human cells for future 
+OOC research.  
+• Current efforts to establish cell banks for 
+related technologies may provide a model for 
+these efforts. 
+• May require a high level of stakeholder 
+coordination, additional resources, and 
+scientific expertise. 
+• May require additional standardized  
+cell protocols and reference materials. 
+ 
+Encourage more research and 
+development of benchmarks and 
+validation studies (report p. 27) 
+ 
+For example, relevant funding agencies could 
+provide more funding to academics and 
+companies for OOC research, specifically to 
+validate OOCs for priority contexts of use.  
+• Could help to identify relevant 
+benchmarks to validate OOCs for specific 
+contexts of use.  
+• Could increase the number of published 
+validation studies.  
+• Could increase scientific confidence in 
+OOCs. 
+• Investments in OOCs may reduce 
+available funding for other 
+technologies. 
+• Defining priority contexts of use will 
+require input from and coordination  
+with end users, such as drug or  
+chemical companies. 
+Create or participate in mechanisms for 
+data sharing (report p. 28) 
+ 
+For example, OOC developers and drug 
+companies could participate in 
+precompetitive efforts to share OOC data 
+freely, such as sharing data through an 
+industry trade group, nonprofit, or other 
+trusted third party. 
+• Could help end users and regulators assess 
+the robustness of OOC. 
+• Could build confidence in and aid adoption  
+of OOC. 
+• Could increase alignment and engagement 
+among relevant stakeholders. 
+• Companies may need additional 
+incentives to participate for fear of 
+losing a competitive advantage.   
+• May require an assessment of which 
+OOC methods would be most likely  
+to benefit. 
+Provide additional regulatory guidance 
+(report p. 29) 
+ 
+For example, regulators could provide 
+detailed guidance on how specific OOCs 
+could more readily replace a conventional 
+laboratory method. 
+• Clarity from regulators on appropriate use 
+cases within their regulatory purview 
+could build confidence in the models and 
+increase regulatory experience with these 
+data. 
+• This approach may not be helpful for 
+certain OOC use cases. 
+• Could require regulatory agencies to 
+dedicate resources to these new 
+efforts. 
+• Guidance that is too specific could 
+constrain developers and end users. 
+Source: GAO.  |  GAO-25-107335 
+ 

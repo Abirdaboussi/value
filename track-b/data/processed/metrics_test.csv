@@ -1,0 +1,2 @@
+doc_id,model_id,rouge1,rouge2,rougeL,bertscore_f1
+test_doc,phi4-mini,0.5,0.11111111111111112,0.3,0.9520353674888611

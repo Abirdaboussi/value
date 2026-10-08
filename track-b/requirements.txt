@@ -1,0 +1,9 @@
+pymupdf
+rouge-score
+bert-score
+pyyaml
+pandas
+scipy
+ollama
+requests
+python-dotenv

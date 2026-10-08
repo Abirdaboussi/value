@@ -1,0 +1,2933 @@
+ 
+United States Government Accountability Office 
+ 
+Report to Congressional Addressees 
+ 
+TECHNOLOGY ASSESSMENT 
+Human Organ-on-a-Chip 
+Technologies Offer Benefits Over Animal Testing 
+but Challenges Limit Wider Adoption  
+May 2025 
+GAO-25-107335
+
+ 
+ 
+The cover image displays a stylized representation of an organ-on-a-chip.  
+Cover source:  GAO analysis of scientific literature (data and illustration); Paul/Bidala/Kwangmoozaa/Kuz 
+Production/Шамиль Алиев/Pakhnyushchyy/Инна Харламова/stock.adobe.com (images). | GAO-25-107335 
+
+ 
+ 
+ 
+United States Government Accountability Office 
+  
+Highlights of GAO-25-107335, a report to 
+congressional addressees 
+May 2025 
+ TECHNOLOGY ASSESSMENT  
+ 
+Human Organ-on-a-Chip 
+Technologies Offer Benefits Over Animal 
+Testing but Challenges Limit Wider Adoption 
+What GAO found 
+Human organ-on-a-chip (OOC) is an emerging technology that incorporates human adult 
+cells in a small laboratory device to mimic how organs work—such as the brain, heart, or 
+lungs. OOCs may be designed to simulate the mechanics of human organs, such as a 
+lung-on-a-chip that stretches to simulate breathing. Researchers are developing and 
+using OOCs to model diseases and predict responses to chemicals. For example, 
+companies are using OOCs to assess aspects of drug safety and efficacy. Because OOCs 
+contain human cells, their use in research may have more relevance to humans than 
+animal testing or other conventional lab methods, but certain OOC research may cost 
+more and take longer. Currently, OOCs cannot replace animal testing but may be used 
+alongside animals. The next generation of OOC is focused on developing “body-on-a-
+chip” systems that link together multiple OOCs—such as the intestine, liver, and 
+kidney—to investigate how organs interact. 
+Lung-on-a-chip (left) and how organ-on-a-chip compares to animals (right)   
+ 
+GAO identified several challenges to the development and use of OOCs, including  
+Obtaining human cells. Reliable human cells are a key requirement for using OOCs, 
+but availability is limited. For example, experts told GAO that only 10 percent to 20 
+percent of human cells they purchase are high enough quality for OOC studies. 
+Lack of benchmarks and validation studies. The lack of benchmarks and sufficient 
+studies assessing OOC accuracy, reliability, and relevance hinders the ability of end 
+users, such as drug companies, to understand how OOCs compare to conventional 
+methods, including animals, and data from clinical trials.  
+Limited data sharing. OOC developers and end users may be reluctant or lack 
+capacity to share their OOC research findings. For example, companies may be 
+concerned about intellectual property and loss of competitive advantages.  
+Regulatory uncertainties. Regulators are still working to better understand OOCs. 
+Meanwhile, experts told GAO that the OOC field faces regulatory uncertainties, 
+including regulators’ lower level of familiarity with OOCs than other methods, and 
+unclear guidance and messaging from the U.S. Food and Drug Administration. 
+View GAO-25-107335. For more information, 
+contact Karen L. Howard, PhD, at 
+HowardK@gao.gov. 
+Why GAO did this study 
+Biomedical researchers face challenges 
+investigating human biology, disease, 
+and the body’s responses to external 
+chemicals, including medicines. 
+Conventional methods—such as 
+animal testing and cells in a petri 
+dish—often do not translate into 
+similar results for humans because 
+they cannot effectively replicate the 
+complex systems of the human body. 
+In the past decade, however, 
+researchers in the pharmaceutical, 
+chemical, and biodefense industries 
+have begun developing and using 
+OOCs to help improve our 
+understanding of human disease and 
+responses to drugs and other 
+chemicals.  
+This technology assessment examines 
+(1) current and emerging OOC 
+technologies and their potential 
+benefits, (2) challenges to developing 
+and using these technologies, and (3) 
+options that policymakers could 
+consider to help enhance the benefits 
+or mitigate the challenges. 
+To conduct this work, GAO reviewed 
+scientific literature and federal agency 
+documents; interviewed a range of 
+experts from government, industry, 
+academia, and nonprofit organizations; 
+and convened a discussion group of 16 
+experts. Participants included federal 
+agency officials, policy experts, and 
+OOC developers and end users from 
+industry and academia. GAO is 
+identifying policy options in this report 
+(see next page). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+GAO developed six policy options that could help mitigate challenges to OOC development and use, including the option to 
+maintain the status quo. The options identify possible actions by policymakers, including legislative bodies, government 
+entities, academia, industry, and other groups. See tables 1–6 in this report for additional policy options and details. 
+Selected Policy Options to Help Mitigate Challenges to the Development and Use of Organ-on-a-Chip (OOC) Technologies 
+Selected policy option 
+Opportunities 
+Considerations 
+Support efforts to increase access to 
+diverse, high-quality human cells  
+(report p. 25) 
+ 
+For example, federal entities, together with 
+stakeholders from academia and industry, 
+could support the establishment of high-
+quality cell banks and biospecimen 
+repositories that incorporate population 
+diversity. 
+• Could provide OOC developers and end users 
+with a supply of diverse human cells for future 
+OOC research.  
+• Current efforts to establish cell banks for 
+related technologies may provide a model for 
+these efforts. 
+• May require a high level of stakeholder 
+coordination, additional resources, and 
+scientific expertise. 
+• May require additional standardized  
+cell protocols and reference materials. 
+ 
+Encourage more research and 
+development of benchmarks and 
+validation studies (report p. 27) 
+ 
+For example, relevant funding agencies could 
+provide more funding to academics and 
+companies for OOC research, specifically to 
+validate OOCs for priority contexts of use.  
+• Could help to identify relevant 
+benchmarks to validate OOCs for specific 
+contexts of use.  
+• Could increase the number of published 
+validation studies.  
+• Could increase scientific confidence in 
+OOCs. 
+• Investments in OOCs may reduce 
+available funding for other 
+technologies. 
+• Defining priority contexts of use will 
+require input from and coordination  
+with end users, such as drug or  
+chemical companies. 
+Create or participate in mechanisms for 
+data sharing (report p. 28) 
+ 
+For example, OOC developers and drug 
+companies could participate in 
+precompetitive efforts to share OOC data 
+freely, such as sharing data through an 
+industry trade group, nonprofit, or other 
+trusted third party. 
+• Could help end users and regulators assess 
+the robustness of OOC. 
+• Could build confidence in and aid adoption  
+of OOC. 
+• Could increase alignment and engagement 
+among relevant stakeholders. 
+• Companies may need additional 
+incentives to participate for fear of 
+losing a competitive advantage.   
+• May require an assessment of which 
+OOC methods would be most likely  
+to benefit. 
+Provide additional regulatory guidance 
+(report p. 29) 
+ 
+For example, regulators could provide 
+detailed guidance on how specific OOCs 
+could more readily replace a conventional 
+laboratory method. 
+• Clarity from regulators on appropriate use 
+cases within their regulatory purview 
+could build confidence in the models and 
+increase regulatory experience with these 
+data. 
+• This approach may not be helpful for 
+certain OOC use cases. 
+• Could require regulatory agencies to 
+dedicate resources to these new 
+efforts. 
+• Guidance that is too specific could 
+constrain developers and end users. 
+Source: GAO.  |  GAO-25-107335 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This is a work of the U.S. government and is not subject to copyright protection in the United States. The published 
+product may be reproduced and distributed in its entirety without further permission from GAO. However, because this 
+work may contain copyrighted images or other material, permission from the copyright holder may be necessary if you 
+wish to reproduce this material separately. 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   i 
+Table of Contents 
+Introduction .........................................................................................................................1 
+1 Background .......................................................................................................................4 
+1.1 OOCs can model the structure and functions of human organs....................................... 4 
+1.2 Types of OOCs include brain-on-a-chip, heart-on-a-chip, liver-on-a-chip, and more ...... 5 
+1.3 Other laboratory methods help scientists investigate how the human body works ....... 5 
+1.4 Various stakeholders are working on OOCs ...................................................................... 7 
+2 The State of OOC Technologies ........................................................................................9 
+2.1 OOCs will likely complement but not fully replace animal testing in the near term ........ 9 
+2.2 OOC offers benefits and limitations compared to other cell-based methods ................ 10 
+2.3 OOC has seen rapid growth from drug development and other applications................ 11 
+2.4 Single-organ OOC technologies are more mature than multiorgan OOCs ..................... 14 
+3 Challenges to OOC Development and Use .................................................................... 17 
+3.1 Human cells used for OOCs ............................................................................................. 17 
+3.2 Resource demands for end users .................................................................................... 17 
+3.3 Lack of OOC-specific standards ....................................................................................... 19 
+3.4 Lack of benchmarks and validation studies .................................................................... 19 
+3.5 Limited data sharing ........................................................................................................ 21 
+3.6 Regulatory uncertainties ................................................................................................. 22 
+4 Policy Options for OOC Technologies ............................................................................ 25 
+4.1 Policy Option: Support efforts to increase access to diverse, high-quality human cells 25 
+4.2 Policy Option: Support standards development for OOC ............................................... 26 
+4.3 Policy Option: Encourage more research and development of benchmarks and 
+validation studies ......................................................................................................... 27 
+4.4 Policy Option: Create or participate in mechanisms for data sharing ............................ 28 
+4.5 Policy Option: Provide additional regulatory guidance .................................................. 29 
+4.6 Policy Option: Maintain the status quo........................................................................... 30 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   ii 
+5 Agency and Expert Comments ....................................................................................... 32 
+Appendix I: Objectives, Scope, and Methodology ............................................................ 33 
+Appendix II: Expert Participation ...................................................................................... 37 
+Appendix III: GAO Contact and Staff Acknowledgments .................................................. 39 
+ 
+Tables 
+Table 1: Potential implementation approach to support efforts to increase access to 
+diverse, high-quality human cells  .................................................................................... 25 
+Table 2: Potential implementation approaches to support standards development for 
+OOC  .................................................................................................................................. 26 
+Table 3: Potential implementation approaches to encourage research and development 
+of benchmarks and validation studies  ............................................................................. 27 
+Table 4: Potential implementation approaches to create or participate in mechanisms 
+for data sharing ................................................................................................................. 28 
+Table 5: Potential implementation approaches to provide additional regulatory guidance
+........................................................................................................................................... 29 
+Table 6: Potential implementation approaches to maintain the status quo ................... 31 
+Figures 
+Figure 1: The general design of a human organ-on-a-chip  ................................................ 3 
+Figure 2: Examples of human organ-on-a-chip technologies and uses ...............................5 
+Figure 3: The general steps and common time frame for drug development ....................6 
+Figure 4: How current organ-on-a-chip (OOC) technologies compare to animal testing  ..9 
+Figure 5: Organ-on-a-chip (OOC) and drug development  ............................................... 12 
+Figure 6: Organ-on-a-chip (OOC) modeling multiple organ systems ............................... 16 
+ 
+ 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   iii 
+Abbreviations 
+3D 
+three-dimensional 
+ 
+DARPA 
+Defense Advanced Research Projects Agency 
+ 
+DOD 
+Department of Defense 
+ 
+EPA 
+Environmental Protection Agency 
+ 
+FDA 
+U.S. Food and Drug Administration 
+ 
+ICCVAM 
+ISO 
+Interagency Coordinating Committee on the Validation of Alternative Methods 
+International Organization for Standardization 
+ 
+ISTAND 
+FDA’s Innovative Science and Technology Approaches for New Drugs Pilot Program 
+ 
+NCATS 
+National Center for Advancing Translational Sciences 
+ 
+NIH 
+National Institutes of Health 
+ 
+NIST 
+National Institute of Standards and Technology 
+ 
+OOC 
+organ-on-a-chip 
+ 
+OECD 
+Organisation for Economic Co-operation and Development 
+ 
+TEX-VAL 
+Texas A&M Tissue Chip Validation Consortium 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   1 
+ 
+ 
+441 G St. N.W. 
+Washington, DC 20548 
+Introduction
+May 21, 2025 
+ 
+The Honorable Bill Cassidy, M.D.  
+Chairman  
+Committee on Health, Education, Labor, and Pensions  
+United States Senate 
+ 
+The Honorable Rand Paul, M.D.  
+Chairman  
+Committee on Homeland Security and Governmental Affairs  
+United States Senate 
+ 
+The Honorable Zoe Lofgren  
+Ranking Member  
+Committee on Science, Space, and Technology  
+House of Representatives  
+  
+Biomedical researchers face challenges investigating human biology, disease, and the body’s 
+responses to external chemicals. For example, drug developers spend an average of 6 years 
+testing a new drug candidate for potential safety and efficacy using animals, simple cell cultures, 
+and other conventional laboratory methods before moving into human clinical trials.1 However, 
+up to 80 percent of drug candidates that show promise at this stage still fail to display sufficient 
+safety and efficacy in humans to achieve regulatory approval. One reason that conventional 
+methods may not translate into similar results for humans is that the methods often do not 
+effectively replicate how the complex systems of the human body work. Meanwhile, U.S. 
+researchers use millions of animals for research each year, sometimes using procedures that 
+cause animals pain or distress. 
+In recent years, researchers have shown that human organ-on-a-chip (OOC) technologies can 
+mimic the structures and functions of human organs, model diseases, and predict responses to 
+chemicals. For example, drug and chemical company researchers have begun using OOCs to 
+assess the potential safety or efficacy of products under development. The U.S. Food and Drug 
+Administration (FDA) and the Environmental Protection Agency (EPA) have also begun using 
+ 
+1For the purposes of this report, conventional laboratory methods include testing on animals—such as mice, rats, fish, dogs, and 
+nonhuman primates (e.g., monkeys)—and simple cell-based methods—such as human cell cultures. 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   2 
+some OOC data to make determinations about the safety or efficacy of drugs and  
+other chemicals. 
+For decades, Congress has directed federal agencies to identify replacements for animals in 
+safety and efficacy testing when scientifically justified. For example, the Interagency 
+Coordinating Committee on the Validation of Alternative Methods (ICCVAM) Authorization Act 
+of 2000, established ICCVAM as a permanent interagency coordinating committee and directs it 
+to, among other things, evaluate alternatives to animal testing for regulatory uses.2 ICCVAM is 
+composed of officials from federal regulatory agencies (FDA and EPA) and research agencies, 
+including the National Institutes of Health (NIH).3 In March 2024, ICCVAM released a report that 
+describes how developers and end users can build more confidence in technologies such as 
+OOCs.4 The Toxic Substances Control Act, as amended in 2016, directs EPA to reduce and 
+replace vertebrate animals in the testing of chemical substances or mixtures, to the extent 
+practicable, scientifically justified, and consistent with the Toxic Substances Control Act.5 The 
+Food and Drug Omnibus Reform Act of 2022 amended the Federal Food, Drug, and Cosmetic Act 
+to add the term “nonclinical test,” which clarifies that drug application sponsors can submit 
+results from alternative methods to animal testing to support investigational new drug 
+applications.6 
+GAO has completed prior work on the potential use of OOCs in biomedical research, including 
+for vaccine development and as alternatives to animal testing.7 In light of congressional interest 
+in alternatives to animal testing, we prepared this report under the authority of the Comptroller 
+General to further assess OOCs.8 This report examines: (1) current and emerging OOC 
+ 
+2Pub. L. No. 105-545, §3, 114 Stat. 2721, 2721-23 (codified at 42 U.S.C. §285l-3). ICCVAM is a permanent interagency coordinating 
+committee of the National Institute of Environmental Health Sciences, which is an institute within the National Institutes of 
+Health. ICCVAM can, in an advisory capacity, establish opportunities for research collaboration, including between federal regulatory 
+agencies and research laboratories. 
+3The Act specifies that ICCVAM be composed of the heads (or their designees) of 15 agencies or subagencies, also including the 
+Department of Defense (DOD), and any other agency “that develops, or employs tests or test data using animals, or regulates on the 
+basis of the use of animals in toxicity testing.” Pub. L. No. 105-545, §3(c), 114 Stat. 2721, 2722 (codified at 42 U.S.C. §285l-3(c)). The 
+National Institute of Standards and Technology (NIST) joined voluntarily in 2016. The National Center for Advancing Translational 
+Sciences (NCATS) joined in 2024. DOD’s Defense Threat Reduction Agency told us that it has initiated conversations to become full 
+members before the next technology meeting in spring of 2025. 
+4ICCVAM, Validation, Qualification, and Regulatory Acceptance of New Approach Methodologies (March 2024). 
+5Pub. L. No. 114-182, tit. I, § 4, 130 Stat. 448, 452-454 (2016) (codified at 15 U.S.C. 2603(h)). The Toxic Substances Control Act, as 
+amended, directs EPA to assess and regulate risks from new chemicals prior to manufacturing and existing chemical substances in 
+commerce. Pub. L. No. 94-469, 90 Stat. 2003 (1976) (codified, as amended, at 15 U.S.C. § 2601 et seq.). 
+6Pub. L. No. 117-328, tit. III, subt. B, ch. 1, § 3209, 136 Stat. 4459, 5821-22. The Food and Drug Omnibus Reform Act of 2022 was 
+enacted as part of the Consolidated Appropriations Act, 2023. 
+7GAO, Vaccine Development: Capabilities and Challenges for Addressing Infectious Diseases, GAO-22-104371 (Washington, D.C.: Nov. 
+16, 2021); GAO, Animal Use in Research: Federal Agencies Should Assess and Report on Their Efforts to Develop and Promote 
+Alternatives, GAO-19-629 (Washington, D.C.: Sep. 24, 2019). 
+831 U.S.C. § 717(b)(1). 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   3 
+technologies and their potential benefits, (2) challenges to developing and using these 
+technologies, and (3) options that policymakers could consider to help enhance the benefits or 
+mitigate the challenges. 
+To address these objectives, we conducted a literature search; interviewed experts from 
+government, industry, academia, and nonprofit sectors; convened a 2-day expert discussion 
+group; and visited labs researching OOCs at the National Institute of Standards and Technology 
+(NIST) to better understand these technologies. See appendix I for the full objectives, scope, and 
+methodology used in this report and appendix II for the list of experts we spoke with. 
+We conducted our work from January 2024 through May 2025 in accordance with all sections of 
+GAO’s Quality Assurance Framework that are relevant to technology assessments. The 
+framework requires that we plan and perform the engagement to obtain sufficient and 
+appropriate evidence to meet our stated objectives and to discuss any limitations to our work. 
+We believe that the information and data obtained, and the analysis conducted, provide a 
+reasonable basis for the findings and conclusions in this product. 
+ 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   4 
+1 Background
+The human body includes about 80 organs—
+such as the brain, lungs, heart, liver, and 
+more—made up of at least 200 distinct cell 
+types that perform special, critical functions. 
+Blood delivers oxygen and nutrients to cells 
+within these organs and removes waste 
+products. Various stakeholders, including 
+companies and academic labs, are developing 
+OOCs that attempt to effectively mimic the 
+complexity of these organs in laboratory 
+settings to investigate human biology.  
+1.1 OOCs can model the structure and 
+functions of human organs 
+While there is no consensus definition, we 
+defined OOCs in our previous reporting as 
+small, experimental laboratory tools that 
+contain human cells and mimic how organs 
+and systems work in the human body.9 For 
+example, OOCs may contain multiple cell 
+types with media—a liquid that provides 
+nutrients to support cell function—flowing 
+through small channels in a three-dimensional 
+(3D) system that mimics blood moving 
+through an organ (see fig. 1).  
+ 
+Figure 1: The general design of a human organ-on-a-chip  
+ 
+9Some definitions of OOCs include other cell-based laboratory 
+tools referred to as complex in vitro models or 
+microphysiological systems. These include organoids—small, 
+artificially grown groups of human cells that resemble an organ 
+and mimic the original tissue architecture—which we include in 
+our definition of OOC for this report. For a previous report 
+where we described OOCs, see GAO, Vaccine Development: 
+Capabilities and Challenges for Addressing Infectious Diseases, 
+GAO-22-104371 (Washington, D.C.: Nov. 16, 2021). 
+
+Living human
+GAO analysis of scientific literature (data); Material from: RISHAB DRIVER and SHWETA MISHRA, ORGAN-ON-A-CHIP TECHNOLOGY: AN IN-DEPTH REVIEW 
+OF RECENT ADVANCEMENTS AND FUTURE OF WHOLE BODY-ON-A-CHIP, published 2023 Springer Nature reproduced with permission of SNCSC modified with 
+images from Greenvector/Инна Харламова/Eveleen007/stock.adobe.com and U.S. Food and Drug Administration image licensed via BioRender.com as modified by 
+GAO (images).  |  GAO-25-107335
+Interactive: Press the buttons 
+to see the advantages of 
+organ-on-a-chip 
+technology for  
+various organs.
+1.2 Types of OOCs include brain-on-a-
+chip, heart-on-a-chip, liver-on-a-chip, 
+and more
+OOCs can model structures and functions 
+of various human organs (see fig. 2).  OOCs 
+may be designed to simulate the mechanics 
+of human organs, such as a lung-on-a-chip 
+that stretches to simulate breathing. These 
+technologies may also integrate sensors that 
+conduct real-time measurements of cellular 
+responses, such as a heart-on-a-chip that 
+contains an electrochemical sensor to assess 
+heart function.
+1.3 Other laboratory methods help 
+scientists investigate how the human 
+body works
+Besides OOCs, biomedical researchers use 
+the following conventional methods to gain 
+insights about human biology, disease, and 
+responses to external chemicals, including 
+industrial chemicals and drugs. 
+Simple cell-based methods. In contrast to 
+OOCs, other cell-based methods (e.g., human 
+Human-Organ-on-a-Chip  |  GAO-25-107335   5
+Figure 2:  Examples of human organ-on-a-chip technologies and uses
+Heart
+Intestine
+Lungs
+Kidney
+Brain
+Liver
+HIDE 
+ALL
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   6 
+cell cultures) primarily involve cells of a single 
+type sitting on a flat plastic surface—such as a 
+petri dish—with media on top of them. 
+Researchers use these methods to provide 
+low-cost, rapid answers to biomedical 
+research questions, including possible organ 
+toxicity from an industrial chemical (e.g., a 
+pesticide) and early indications of drug 
+efficacy. However, simple cell-based methods 
+lack the ability to mimic many structural and 
+functional characteristics of organs in the 
+body—such as continuous flowing media and 
+mechanical simulations—that may affect their 
+ability to predict responses in people. 
+Because they lack these physiological 
+characteristics, they are less complex  
+than OOCs.  
+Animal testing. Animals—such as mice, rats, 
+fish, dogs, and nonhuman primates (e.g., 
+monkeys)—are used to better understand 
+human biology, test the potential safety of 
+chemicals, and test potential safety and 
+efficacy of drug candidates before they are 
+tested in people.10 Animals can provide 
+whole-organism information on more than 40 
+organs and tissues in a single experiment. For 
+example, biomedical researchers might study 
+the side effects of a drug candidate on “off-
+target” organs, such as an animal’s 
+gallbladder. While animal testing has led to 
+treatments and cures for many human 
+diseases, we previously reported that most 
+animal research does not result in an 
+approved drug or treatment that would 
+benefit human health due, in part, to inherent 
+biological differences between animals and 
+humans.11 For example, the lack of effective 
+treatments for Alzheimer's disease, asthma, 
+and other disorders is due, in part, to the 
+reliance on genetically engineered mice that 
+do not accurately mimic human diseases. In 
+addition, animal testing can cause pain and 
+distress to animals and presents other ethical 
+issues for stakeholders and the public.  
+Biomedical researchers may choose which 
+methods to use based on the current 
+scientific evidence, their needs, and available 
+resources. For example, drug developers may 
+use simple cell-based methods and animals to 
+assess potential safety and efficacy for 
+multiple drug candidates before selecting 
+candidates to test in clinical trials (see fig. 3). 
+ 
+ 
+ 
+ 
+10Nonhuman primates represent a very small percentage of 
+the animals used in research, according to an expert and 
+reported estimates.  
+11GAO, National Institutes of Health: Assessing Efforts to 
+Improve Animal Research Could Lead to Greater Human Health 
+Benefits, GAO-25-107140 (Washington, D.C.: Dec. 19, 2024). 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   7 
+Figure 3: The general steps and common time frame for drug development 
+ 
+Note: The steps and time frames for drug development depicted in this figure are not drawn to scale. Development steps and time frames for a specific 
+drug may vary.  
+ 
+1.4 Various stakeholders are working 
+on OOCs 
+Stakeholders across multiple sectors—
+including government, industry, and 
+academia—are involved with OOC 
+development, use, regulation, and 
+coordinating activities. These groups include 
+Developers. These stakeholders create or 
+market OOCs as a product or service. 
+Companies, universities, and government labs 
+are involved in OOC development and have 
+published articles in peer-reviewed journals 
+about proof-of-concept OOCs that may or 
+may not be commercial. Some companies are 
+developing commercially available OOC 
+systems that require proprietary supporting 
+equipment, while others are developing OOCs 
+that readily adapt to existing lab 
+infrastructure. In addition to selling the 
+systems, another business model is to 
+perform OOC experiments for clients as a 
+contract research organization.  
+End users. Government, industry, and 
+academic labs use OOCs to investigate 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   8 
+fundamental aspects of human biology, 
+disease, and responses to chemicals. 
+Government and academic researchers may 
+use OOCs in basic research to discover 
+mechanisms of human disease or to support 
+toxicological assessments. In addition, drug 
+companies may use OOCs for disease 
+modeling and in many aspects of drug 
+development, including safety and efficacy 
+assessments of new drug candidates  
+and therapies.  
+Regulators. FDA and EPA review OOC data 
+from companies regarding safety, efficacy, or 
+OOC performance. FDA may review OOC data 
+in drug development and regulatory 
+reviews—for example, before a new drug 
+candidate is moved into clinical trials. EPA 
+may review OOC data from companies 
+supporting various aspects of chemical safety 
+as part of its risk assessment of new chemical 
+substances.12 FDA and EPA also support or 
+conduct research related to OOCs.   
+Coordinating bodies. These stakeholders 
+include trade groups, public-private 
+partnerships, standards organizations, and 
+government interagency committees. Groups 
+such as these coordinate and conduct 
+research on OOCs and related technologies. 
+Relevant public-private partnerships include 
+ 
+12EPA’s Office of Chemical Safety and Pollution Prevention 
+reviews OOC data. This office includes the Office of Pesticide 
+Programs, which regulates the manufacture and use of all 
+pesticides in the U.S., and the Office of Pollution Prevention 
+and Toxics, which evaluates new and existing chemicals and 
+their risks, as well as performing other functions. For new 
+chemical substances (i.e., substances that are not already listed 
+on the Toxic Substances Control Act [TSCA] inventory), or a 
+significant new use of an existing chemical substance, TSCA 
+Section 5(a)(1) requires that a person submit to EPA a notice at 
+least 90 days before commencing manufacture of a new or 
+significant new use of a chemical substance and directs EPA to 
+determine the risk of injury to health or the environment of the 
+chemical and takes any subsequent required actions to 
+mitigate the risk after such a determination. 15 U.S.C. § 
+2604(a). 
+the Critical Path Institute, which hosted FDA-
+funded OOC workshops in 2023 and 2024 that 
+included companies, academics, FDA staff, 
+and others. NIST hosted an OOC 
+standardization workshop in 2023 that 
+included FDA, NIH, and OOC developers.  
+In addition to ICCVAM, NIH has started other 
+recent interagency efforts. In 2024, the NIH 
+Office of Strategic Coordination (specifically 
+the NIH Common Fund) launched the 
+Complement Animal Research In 
+Experimentation program—referred to as 
+Complement-ARIE—with the goal of 
+accelerating research approaches that more 
+accurately model human biology.13 Also in 
+2024, NIH’s National Center for Advancing 
+Translational Sciences (NCATS), in partnership 
+with FDA, established four university-led 
+Translational Centers for Microphysiological 
+Systems (TraCe MPS) with the goal of 
+qualifying OOCs as drug development tools 
+through FDA.14 In April 2025, NIH announced 
+plans to establish the Office of Research 
+Innovation, Validation, and Application within 
+NIH’s Office of the Director, which will 
+coordinate NIH-wide efforts to develop, 
+validate, and scale the use of non-animal 
+approaches, among other things.15  
+13NIH Common Fund’s Complement Animal Research In 
+Experimentation (Complement-ARIE) program, 
+https://www.commonfund.nih.gov/complementarie, accessed 
+Aug. 5, 2024.  
+14When FDA qualifies an OOC drug development tool (DDT) 
+under the Innovative Science and Technology Approaches for 
+New Drugs Pilot Program (ISTAND) it will be available to use in 
+any drug development program for the qualified context of 
+use. A qualified DDT, within the stated context of use, can be 
+relied upon to have a specific interpretation and application in 
+regulatory review and drug development. 
+15NIH, “NIH to prioritize human-based research technologies,” 
+published April 29, 2025, https://www.nih.gov/news-
+events/news-releases/nih-prioritize-human-based-research-
+technologies, accessed April 30, 2025. 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   9 
+2 The State of OOC Technologies
+OOC technologies complement conventional 
+laboratory methods. They offer potential 
+benefits but will not likely replace animal 
+testing, at least in the near term. The field has 
+grown rapidly in the past decade, driven 
+primarily by investment and research from 
+the pharmaceutical industry. Various types of 
+OOC technologies are in use or in 
+development, including single-organ OOCs 
+and multiorgan OOCs.  
+2.1 OOCs will likely complement but 
+not fully replace animal testing in the 
+near term 
+OOCs complement animal testing and may 
+provide some benefits over these models (see 
+fig. 4) but will likely not completely replace 
+them in the near term. OOCs can mimic the 
+responses of certain human organs but 
+researchers and other stakeholders do not yet 
+have sufficient confidence in OOCs to 
+completely replace the need for animal 
+testing. In April 2025, FDA officials told us 
+they envision increasing uses of OOC that 
+could reduce animal testing in specific 
+situations, but OOCs are not yet sufficiently 
+developed to broadly replace animal testing.  
+Figure 4: How current organ-on-a-chip (OOC) technologies compare to animal testing  
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   10 
+There are a few additional ways that OOCs 
+may complement or reduce animal testing.  
+• 
+Internal decision-making. At our expert 
+meeting, experts told us that OOCs are 
+being used by drug companies for internal 
+decision-making. For example, an OOC 
+could be used to assess dozens of drug 
+candidates and identify those that show 
+promise in humans instead of conducting 
+these assessments using rodents. 
+• 
+Investigate follow-up questions. FDA 
+officials told us that researchers can use 
+OOCs to answer follow-up questions from 
+animal studies to investigate specific 
+organ types. For example, an animal 
+study might show that a drug candidate 
+causes toxicity in a specific organ, and 
+researchers could use an OOC to 
+investigate how that toxicity develops. 
+• 
+Use OOCs in lieu of animals for certain 
+standardized tests. Officials from EPA’s 
+Office of Chemical Safety and Pollution 
+Prevention told us that OOCs included in 
+current Organisation for Economic Co-
+operation and Development (OECD) Test 
+Guidelines are used for regulatory 
+purposes to replace traditional tests using 
+animals. For example, OECD Test 
+Guidelines 431 and 439 allow for different 
+skin OOCs as acceptable test methods to 
+assess whether new chemicals may cause 
+skin damage in humans.16 
+ 
+16OECD, Test Guideline No. 431, In Vitro Skin Corrosion: 
+Reconstructed Human Epidermis (RhE) Test Method (June 18, 
+2019); OECD, Test Guideline No. 439, In Vitro Skin Irritation: 
+Reconstructed Human Epidermis Test Methods (June 14, 2021). 
+2.2 OOC offers benefits and 
+limitations compared to other cell-
+based methods 
+OOC can complement simple cell-based 
+methods and offers some benefits. For 
+example, as described in section 1.3, unlike 
+other cell-based methods, OOC enables fluid 
+to flow across the cells and allows 3D 
+interactions among cells in a more natural 
+way. Similar to animals, OOC can serve as a 
+follow-up study after a conventional cell-
+based screening. A benefit of OOC over other 
+cell-based methods is that it provides a 
+microenvironment that better simulates 
+human physiology. For example, an expert 
+told us that a 3D model, such as OOC, is 
+essential for predicting thyroid toxicity 
+because simple cell-based methods cannot 
+sufficiently replicate organ architecture or 
+thyroid hormone production. Several forces 
+that cells experience in the human body are 
+absent in simple cell-based methods, 
+including continuous blood flow; chemical, 
+mechanical, and electrical stimulations; and 
+interactions with other cells. OOC mimics 
+some of these characteristics—for example, 
+fluid flow and cell-to-cell contact. An OOC 
+system may also stretch or contract, which 
+simple cell-based methods do not; and 
+researchers have shown this is a necessary 
+component to simulate functions of certain 
+human organs—specifically, lung-on-a-chip 
+and intestine-on-a-chip.17 
+However, OOC also has limitations compared 
+with simple cell-based methods. OOCs may 
+17Donald E. Ingber, “Human organs-on-chips for disease 
+modelling, drug development and personalized medicine,” 
+Nature Reviews Genetics (2022), DOI: 
+https://doi.org/10.1038/s41576-022-00466-9. 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   11 
+have lower throughput, can cost more, and 
+require highly skilled staff.18 Further, the 
+practical benefits are not fully understood. 
+For example, expert meeting participants told 
+us it is often not clear when OOCs are more 
+predictive than other cell-based methods in 
+the absence of more large-scale studies. 
+2.3 OOC has seen rapid growth 
+from drug development and other 
+applications 
+OOC is an emerging technology, and the field 
+has experienced rapid growth in the past 
+decade. The pharmaceutical industry is one of 
+the main driving forces of the technology’s 
+growth. Other industries, such as the 
+chemical industry, use the technology but to a 
+lesser extent. Advances in supporting 
+technologies—such as stem cells, 3D printing, 
+cell sensors, and microfluidic engineering—
+have also enabled OOC growth.19 
+The publication of research on the first 
+microfluidic lung-on-a-chip in 2010 was an 
+inflection point for the technology.20 Since 
+then, stakeholders from academia, industry, 
+and federal agencies have developed OOCs to 
+model more than 20 human tissues, organs, 
+or organ systems. As of 2024, dozens of 
+companies offer commercially available OOCs 
+as products or services. 
+ 
+18Higher-throughput OOCs are in development that may be 
+useful for screening new drug candidates more efficiently. For 
+example, one company has shown the potential for integrating 
+64 microfluidic chips on a single plate while using automated 
+handling and imaging techniques. 
+19Researchers generally use cells taken from patients to derive 
+a special type of stem cell known as “induced pluripotent stem 
+cells.” These are different from embryonic stem cells. 
+In addition to research, various stakeholders 
+(see sec. 1.4) use OOCs for different 
+applications, including drug development, 
+chemical safety, and biodefense, among 
+others.  
+Drug development. As seen in figure 5, drug 
+companies can use OOCs during multiple 
+points of drug development for different 
+purposes, including understanding how a drug 
+might move through the human body, safety 
+and efficacy studies, and, potentially, 
+personalized medicine. These studies can be 
+done for internal decision-making such as 
+selecting a drug candidate for further 
+development or regulatory applications such 
+as meeting safety requirements to begin 
+clinical trials. One expert told us that the 
+human relevance of OOCs may be particularly 
+beneficial for testing certain types of drugs 
+called biologics—for which nonhuman 
+primates (e.g., monkeys) are typically the only 
+appropriate species for testing.21 At our 
+expert meeting, experts told us that 
+companies have begun using OOCs to assess 
+aspects of drug safety and efficacy. In 
+addition, FDA officials told us the agency has 
+received limited OOC data from drug 
+sponsors in applications to start clinical trials 
+and has reviewed OOC data that provided 
+some basic pharmacology information. 
+20Dongeun Huh et al. “Reconstituting Organ-Level Lung 
+Functions on a Chip,” Science (2010), DOI: 
+https://doi.org/10.1126/science.1188302.  
+21Biologics are a diverse category of products that includes 
+vaccines and allergenic products, blood and blood components, 
+and proteins applicable to the prevention, treatment, or cure 
+of a disease or condition. See 42 U.S.C. § 262(i)(1). Biologics are 
+generally derived from living material, such as the human body 
+or a microorganism. 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   12 
+Figure 5: Organ-on-a-chip (OOC) and drug development 
+ 
+FDA has published articles discussing how 
+novel technologies, including OOC, could help 
+researchers address key drug development 
+topics—such as mechanisms of action, 
+identifying risks for special populations (e.g., 
+ 
+22The mechanism of action is how a drug or medical product 
+produces an effect in the body. Amy Avila et al. “An FDA/CDER 
+perspective on nonclinical testing strategies: Classical 
+toxicology approaches and new approach methodologies 
+(NAMs),” Regulatory Toxicology and Pharmacology, vol. 114 
+(2020), DOI: https://doi.org/10.1016/j.yrtph.2020.104662; Amy 
+Avila et al. “Gaps and challenges in nonclinical assessments of 
+pediatrics), and predicting risks that are 
+difficult or unethical to assess in humans (e.g., 
+carcinogenicity or developmental and 
+reproductive toxicology).22  
+pharmaceuticals: An FDA/CDER perspective on considerations 
+for development of new approach methodologies,” Regulatory 
+Toxicology and Pharmacology, vol. 139 (2023), DOI: 
+https://doi.org/10.1016/j.yrtph.2023.105345. 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   13 
+Chemical safety. The chemical industry uses 
+OOCs for safety testing but to a lesser extent 
+than the pharmaceutical industry, according 
+to EPA and an expert we spoke with.  
+OOC holds promise for testing chemical 
+safety, including environmental exposures in 
+the workplace (see lung-on-a-chip text box).  
+OOC also holds promise in cases where 
+clinical studies are not ethical or practical (see 
+placenta-on-a-chip text box).  
+ 
+ 
+Lung-on-a-chip 
+ 
+What is it?  
+Researchers have developed organ-on-a-chip technologies 
+that mimic key structures and functions of the human  
+lung, such as the ability to stretch and expand to  
+simulate breathing. 
+Why it matters? 
+Lung-on-a-chip technologies are in development to study the 
+potential toxicity of chemicals, such as workplace exposures 
+to inhaled chemicals. These technologies have the potential 
+to replace existing methods for inhalation testing using 
+rodents. Rodent respiratory systems differ significantly from 
+humans and therefore lung-on-a-chip technologies may 
+provide data that better predict effects in humans while also 
+reducing the number of animals needed.   
+What is the developmental status? 
+Lung-on-a-chip is among the most developed of all organ-on-
+a-chip technologies. Nearly 20 companies offer commercially 
+available lung-on-a-chip systems. Researchers are also 
+developing proof-of-concept lung-on-a-chip technologies for 
+different uses—for example, to study asthma, effects of air 
+pollution on human health, and respiratory virus infections. 
+Source: GAO analysis of scientific literature and 3Rs Collaborative 
+Microphysiological Systems Technology Hub (data); U.S. Food and Drug 
+Administration image licensed via BioRender.com as modified by GAO, Инна 
+Харламова/Greenvector/stock.adobe.com (images).  |  GAO-25-107335 
+Placenta-on-a-chip 
+ 
+What is it?  
+Placenta-on-a-chip generally includes three main parts: a 
+maternal compartment, a fetal compartment, and a 
+membrane in between. Each part is comprised of different 
+cell types. Connecting the fetal and maternal compartments 
+to fluid flow can simulate the dynamic environment of  
+a placenta. 
+Why it matters? 
+Pregnant women are often excluded from clinical trials to 
+test drugs because of concerns about harming the fetus, and 
+animal testing does not adequately predict human 
+responses. This presents ethical challenges to studying these 
+biological processes. Early research using placenta-on-a-chip 
+technologies has furthered understanding of the factors that 
+affect maternal and fetal health and provided data on the 
+toxicity, efficacy, and interactions of drugs with  
+the placenta. 
+What is the developmental status? 
+Placenta-on-a-chip is a nascent technology that holds 
+potential to mitigate some of the drawbacks and ethical 
+challenges of conventional methods, such as animal testing. 
+Source: GAO analysis of scientific literature (data); U.S. Food and Drug 
+Administration image licensed via BioRender.com as modified by GAO, 
+Greenvector/stock.adobe.com (images).  |  GAO-25-107335 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   14 
+Biodefense, national countermeasures, 
+and DOD personnel support. The 
+Department of Defense (DOD) is interested 
+in using OOCs to develop medical 
+countermeasures, evaluate vaccine 
+performance, and model biological and 
+chemical effects to benefit civilian and 
+military personnel.23 The Defense 
+Advanced Research Projects Agency 
+(DARPA) fielded a program from 2012 
+through 2019 to fund OOC research, in 
+part to better respond to biological 
+threats.24 As of July 2024, the Defense 
+Threat Reduction Agency plans to have a 
+program focused on validating OOCs as 
+viable alternatives to animal testing and 
+has a goal of decreasing the time and 
+resources required to respond to biological 
+and chemical threats (see immune system-
+on-a-chip text box).25  
+2.4 Single-organ OOC technologies 
+are more mature than multiorgan 
+OOCs 
+Single-organ OOC technologies are at 
+various stages of development and, in 
+general, are more advanced than 
+multiorgan OOCs. See figure 2 for 
+illustrative examples of single-organ OOCs.  
+Researchers, developers, and end users are 
+creating or using various single-organ 
+OOCs. Most OOC development activity has 
+occurred for the heart, intestine, kidney, 
+liver, and lung. Liver-on-a-chip is of 
+ 
+23The U.S. Department of Health and Human Services—
+through NIH, FDA, and the Biomedical Advanced Research and 
+Development Authority—has also conducted work using OOCs 
+to develop medical countermeasures, which may be used in a 
+public health emergency, among other purposes. 
+24DARPA’s Microphysiological Systems program was intended 
+to build on the limited basic research on OOCs occurring at that 
+time. This program also included NIH’s NCATS to help develop 
+OOCs for wider use in biomedical research.  
+25The Defense Threat Reduction Agency’s program is called 
+Comparing Animal Models to Organ Tissue Equivalents—
+Immune system-on-a-chip 
+ 
+What is it?  
+The human immune system helps to maintain a healthy functioning 
+body—including by clearing out cellular debris, keeping diseases like 
+cancer at bay, and responding to viruses or bacteria. Researchers have 
+developed multiple proof-of-concept immune system-on-a-chip 
+technologies to model these processes. 
+Why it matters? 
+Immune system-on-a-chip can model how circulating immune cells 
+respond to medical interventions, including vaccines, and biological 
+threats such as viruses and bacteria.  
+Immune system-on-a-chip technologies are of particular interest to the 
+pharmaceutical industry and the Department of Defense (DOD). Drug 
+companies want to incorporate them into their drug development 
+pipelines to understand how circulating immune cells interact with 
+other organs, such as the liver, or disease processes, such as 
+responding to tumors. DOD is investigating their potential to 
+characterize new pathogens that could affect the warfighter. DOD 
+officials told us that the agency is also interested in using immune 
+system-on-a-chip to more quickly develop countermeasures against 
+new pathogens without relying on nonhuman primates (e.g., monkeys). 
+What is the developmental status? 
+DOD officials told us that immune system-on-a-chip efforts may require 
+at least 10 years to obtain U.S. Food and Drug Administration approval 
+because improvements are needed to better incorporate certain 
+aspects of the immune system. 
+Source: GAO analysis of scientific literature; DOD (data); U.S. Food and Drug Administration 
+image licensed via BioRender.com as modified by GAO, 
+Greenvector/Eveleen007/stock.adobe.com (images).  |  GAO-25-107335 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   15 
+particular interest to various industries—
+including those that develop drugs, foods, and 
+other consumer products—because the liver 
+processes chemicals that enter the body 
+through the stomach and intestine and is 
+vulnerable to toxicity. Drug-induced liver 
+injury has been the most frequent cause of 
+safety-related drug withdrawals for the past 
+50 years and multiple OOC developers are 
+establishing relevant liver-on-a-chip models. 
+For example, one company has shown its 
+liver-on-a-chip could have predicted drug-
+induced liver injury for 12 of 15 drugs that 
+had previously passed animal testing but 
+were toxic in clinical trials.26 Despite 
+advancements, a liver-on-a-chip that 
+completely replicates human liver function 
+does not yet exist. 
+ 
+referred to as CAMO. In August 2024, DOD held a 2-day 
+workshop for government, academic, and industry 
+stakeholders to discuss challenges, gaps, and current OOCs 
+relevant to DOD’s needs. 
+The next generation of OOC is focused on 
+advanced disease modelling and developing 
+multiorgan OOC, along with other lines of 
+effort. Sometimes referred to as body-on-a-
+chip, multiorgan OOC links different organs to 
+each other on one or more systems to 
+investigate interorgan effects. For example, 
+multiorgan OOC can help assess secondary 
+drug toxicity—that is, when an organ 
+metabolizes a drug and the resulting break-
+down products cause a secondary negative 
+effect. NIST told us that development of 
+multiorgan OOC in the past 10 years has 
+resulted in a large variety of systems. 
+Examples of multiorgan OOCs in development 
+include immune-tumor, the female 
+reproductive system, and intestine-liver-
+kidney (see fig. 6). 
+26Lorna Ewart et al. “Performance assessment and economic 
+analysis of a human Liver-Chip for predictive toxicology,” 
+Communications Medicine (2022), DOI: 
+https://doi.org/10.1038/s43856-022-00209-1. 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   16 
+Figure 6: Organ-on-a-chip (OOC) modeling multiple organ systems 
+ 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   17 
+3 Challenges to OOC Development and Use 
+Based on our review of the literature, 
+interviews with experts and agency officials, 
+and the expert discussion group, we identified 
+six categories of challenges that may hinder 
+the development or use of OOC technologies: 
+(1) human cells used for OOCs, (2) resource 
+demands for end users, (3) a lack of OOC-
+specific standards, (4) a lack of benchmarks 
+and validation studies, (5) limited data 
+sharing, and (6) regulatory uncertainties.  
+3.1 Human cells used for OOCs  
+Obtaining reliable human cells is a key 
+requirement to use OOCs. However, acquiring 
+human cells of sufficient quantity, quality, and 
+diversity is challenging.  
+Cell sourcing and quality. The availability of 
+high-quality human cells is limited. Primary 
+human cells—that is, cells isolated directly 
+from people—often require research 
+contracts with hospitals or purchasing from 
+other sources that have limited supply. For 
+example, primary human brain cells must be 
+recovered from a surgery or cadaver. 
+Researchers can use certain cells—known as 
+induced pluripotent stem cells—to produce a 
+steady source for some cell types, which can 
+help mitigate the availability challenge in 
+some cases.27 However, induced pluripotent 
+stem cells will not fully address the cell 
+ 
+27Induced pluripotent stem cells are derived from human body 
+cells—often from blood or skin taken from patients—that 
+researchers can reprogram to create different cell types (these 
+cells can be derived from body cells other than reproductive 
+cells). For example, researchers can use these cells to generate 
+heart muscle cells in the lab for heart-on-a-chip technologies. 
+Induced pluripotent stem cells are different from human 
+embryonic stem cells. 
+sourcing challenge because of technical 
+difficulties for certain cell types that prevent 
+them from behaving like adult cells, among 
+other reasons. In addition to the sourcing 
+challenge, quality can be an issue. For 
+example, two experts told us that only 10 
+percent to 20 percent of donor primary cells 
+they purchase are of high enough quality to 
+use in OOC studies.28 
+Diversity of cells. Available human cells often 
+lack sufficient genetic diversity, leading to 
+OOC results that may not properly reflect the 
+demographic diversity of populations. One 
+expert told us more than 70 percent of 
+primary and induced pluripotent stem cells 
+come from White donors. Genetic diversity is 
+important for accurately predicting human 
+outcomes and assessing immune responses 
+that might apply to national and global 
+populations. A lack of genetic diversity in cell 
+sources is a challenge for all human cell-based 
+methods, including OOCs.  
+3.2 Resource demands for end users 
+OOC end users face challenges related to 
+resource requirements, including high costs, 
+time-intensive testing processes, 
+requirements for highly trained staff, and 
+technology availability. 
+28Researchers can also use established cell lines, which are lab-
+modified cells that can be produced in virtually unlimited 
+supply and are intended to behave similarly to primary cells. 
+However, established cell lines are normally not preferred in 
+OOCs due to concerns about quality and the need to validate 
+them against primary cells. 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   18 
+High costs. OOCs require large financial 
+investments that may prevent many research 
+labs from adopting the technology. For 
+example, end users can face start-up costs of 
+over $150,000—including to acquire the 
+initial chips, which can only be used once, and 
+other supplies—and still lack confidence in 
+the results. Even after making the initial 
+investment, users may face thousands of 
+dollars in recurring costs, including to obtain 
+an ongoing supply of chips and human cells. 
+These costs are higher than simple cell-based 
+methods, and experts told us they are often 
+uncertain whether the added complexity of 
+OOCs is worth the extra cost. According to an 
+expert, many institutions already have sunk 
+costs into animal facilities, so the extra costs 
+and space requirements for OOC studies can 
+also be challenging to justify to leadership. 
+Experts told us that OOC studies may be more 
+cost-effective than animal testing when 
+studies are focused on a single organ’s 
+response (e.g., liver), but not in cases when 
+researchers need to assess whole-body 
+responses (e.g., comprehensive safety studies 
+for new drugs).29  
+Time-intensive testing processes. Preparing 
+and carrying out OOC experiments is time 
+intensive and end users are still optimizing 
+their testing approaches. One end user told us 
+it takes about 10 days to prepare and position 
+human cells for a new OOC experiment 
+before any testing takes place. These time 
+demands are higher for OOCs compared with 
+simple cell-based methods due to the 
+complexities of growing multiple cell types, 
+among other reasons. Then, according to this 
+end user, an OOC experiment can take 
+ 
+29Due to limited data on costs and factors that affect costs 
+relative to other methods, we were not able to determine the 
+magnitude of these differences. 
+approximately 10 more days and require 
+three full-time employees to operate, which is 
+generally more resource-intensive than 
+simple cell culture. As is the case with many 
+new technologies, experiments can take even 
+longer if team members lack the proper 
+expertise. For example, an expert told us that 
+OOC experiments can take as long as 8 weeks 
+in the hands of less experienced staff. There 
+may also be technical difficulties that add 
+more time—for example, bubbles in the fluid-
+filled channels. 
+Highly trained staff. Given the complexities of 
+OOC, these technologies require staff with a 
+high level of expertise to operate. Staff with 
+specific qualifications—such as relevant 
+engineering and biomedical research skills—
+are in short supply, in part due to the 
+newness of the technologies. In addition, one 
+expert told us training existing staff can take 
+at least 1 year. 
+By working with contract research 
+organizations, end users can potentially 
+mitigate the need to hire or train staff. 
+However, one end user told us that if they use 
+a contract research organization, they usually 
+conduct a pilot project to confirm the new 
+model fits their research goals, which still 
+requires trained staff. Additionally, a different 
+end user told us that using a contract was 
+slower than testing the OOCs in house 
+because the end user was unable to quickly 
+adapt and troubleshoot.  
+Technology availability. Choosing a 
+commercially available OOC to acquire can 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   19 
+also be resource-intensive, and many OOCs 
+are not commercially available. For example, 
+there are multiple commercially available 
+liver-on-a-chip technologies, but an end user 
+may not know which one is appropriate 
+without extensive testing in house. 
+Additionally, some specialized OOCs—for 
+example, organs that are not commonly 
+studied like the gallbladder—have been 
+described in peer-reviewed journals but may 
+not be available to purchase.  
+3.3 Lack of OOC-specific standards 
+A lack of standards specific to OOCs may 
+cause challenges with communication, 
+reproducibility of results, and use of the 
+technologies. However, NIST officials told us 
+that establishing OOC-specific standards is 
+difficult because the technology is complex 
+and rapidly evolving. Additionally, experts 
+told us that standardizing certain aspects of 
+OOCs—such as the various chip sizes and 
+number of fluid-filled channels on each chip—
+may potentially limit the field’s ability to 
+innovate. NIST told us that standardization 
+efforts related to multiorgan OOCs are 
+urgently needed. In general, experts agreed 
+that some standardization could facilitate 
+OOC implementation and innovation.30  
+Experts also told us that establishing standard 
+terminology and definitions could lead to 
+clearer communication among relevant 
+stakeholders. NIST works with the OECD to 
+coordinate global standardization related to 
+OOC. NIST told us it is also coordinating 
+efforts within the International Organization 
+for Standardization (ISO) to develop 
+ 
+30In 2022, a group of 200 international stakeholders at a 
+workshop hosted by FDA and a drug company consortium 
+agreed that developing standards or guidelines for every OOC 
+comprehensive OOC standards related to 
+vocabulary, measurement, biological 
+components, engineering, and data. FDA 
+informed us that it is also actively engaged in 
+these efforts within ISO.   
+3.4 Lack of benchmarks and 
+validation studies 
+Even with more than a decade of publications 
+showing the potential for OOCs, end users are 
+in the early stages of adopting the technology 
+and still rely heavily on conventional lab 
+methods. Increasing adoption of OOCs will 
+depend on end users understanding how 
+context of use would be difficult, but stakeholders could 
+consider developing broadly applicable standards that can be 
+applied regardless of context of use or specific OOC.  
+International efforts with human organ-on-a-
+chip (OOC) standardization 
+In July 2024, a European standardization organization 
+published an OOC roadmap that outlined priority 
+recommendations for standardization. This roadmap, 
+created over 2 years with the active participation of around 
+120 experts, made recommendations on the need to 
+standardize terminology, aspects of the system hardware, 
+and requirements for experimental design to achieve 
+reliable data. It also described that the lack of standards 
+slows down innovation and negatively affects reproducibility 
+and comparability of OOC results. Additionally, the roadmap 
+highlighted some existing standards that were not 
+specifically designed for OOCs but may be relevant; 
+however, it is unclear whether these standards are being 
+applied in OOC systems.  
+Following the release of the OOC roadmap, the International 
+Organization for Standardization (ISO) formed a 
+subcommittee to advance standardization for several 
+aspects of OOCs, including terminology, biological 
+components, and characterization of materials and 
+processes. As of February 2025, the ISO subcommittee has 
+three international standards under development, including 
+on the quality control of cells and vocabulary used for OOCs. 
+Source: Focus Group Organ-on-Chip Standardization Roadmap, The European 
+Committee for Standardization and the European Committee for 
+Electrotechnical Standardization; GAO analysis of ISO information.  |  GAO-25-
+107335 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   20 
+these technologies compare with 
+conventional methods and data from clinical 
+trials. However, such comparisons are 
+challenging due to the lack of benchmarks 
+and validation studies.   
+Benchmarks. Benchmarks are defined points 
+of comparison to measure results against. 
+Examples of benchmarks include outcomes 
+from testing reference compounds—that is, 
+drugs or chemicals that have known effects in 
+humans—that can help researchers 
+understand whether OOCs predict responses 
+in people. Benchmarks are necessary to 
+compare the performance of commercially 
+available OOCs to each other; to conventional 
+methods, such as animal testing; or to known 
+human outcomes, such as specific organ-
+related toxicities (e.g., drug-induced liver 
+injury) from clinical trial data. However, these 
+types of benchmarks are often not available 
+for OOC, which can hinder both the 
+development and use of the technology. For 
+example, experts told us there are too few 
+reference compound lists available for OOCs, 
+making it challenging to gain confidence in 
+OOCs for specific contexts of use.31 
+There are some ongoing efforts to address 
+this challenge but they are currently 
+insufficient or face limitations. For example, 
+in 2021 FDA published a list of reference 
+compounds with known positive and negative 
+outcomes that could help researchers assess 
+where OOCs might predict responses related 
+ 
+31FDA defines context of use as the intended manner and 
+purpose of use for a test method, such as an OOC. See 
+https://www.fda.gov/science-research/advancing-alternative-
+methods-fda/about-alternative-methods, accessed April 14, 
+2025. For example, a context of use for a liver-on-a-chip system 
+may be to predict drug-induced liver injury for specific types of 
+chemicals. 
+to reproductive and developmental toxicities 
+in people.32 In addition, between 2010 and 
+2017, three drug companies provided NCATS 
+with a list of 120 reference compounds, but 
+the compound library was expensive to 
+establish and difficult to manage since the 
+compounds were typically not commercially 
+available, according to officials.  
+Validation studies. The lack of validation 
+studies for OOCs—that is, assessments about 
+their accuracy, reliability, and relevance—
+have made stakeholders uncertain whether 
+these technologies can provide useful results. 
+Examples of validation studies include 
+assessing the performance of OOCs using 
+reference compounds or in relation to 
+existing relevant toxicity data, which could in 
+turn increase scientific confidence.33 
+However, sufficient validation studies have 
+rarely been conducted for OOCs, even those 
+that are commercially available, and when 
+they have been conducted the results are 
+often not shared with all relevant 
+stakeholders. For example, EPA officials told 
+us that more validation studies are needed to 
+gain sufficient confidence in using OOCs to 
+assess chemicals in commerce, specifically 
+when the OOCs were developed for 
+pharmaceutical testing. This means that end 
+users often lack key information about which 
+OOC best fits their research needs and 
+therefore must conduct such studies in house. 
+32FDA, S5(R3) Detection of Reproductive and Developmental 
+Toxicity for Human Pharmaceuticals: Guidance for Industry 
+(May 2021). 
+33There are internationally harmonized validation frameworks, 
+such as OECD Guidance Document 34, that provide detailed 
+guidance on conducting validation studies.  
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   21 
+Additionally, a single OOC system may have 
+different contexts of use, which would require 
+validation studies for each. For example, a 
+specific lung-on-a-chip may have been 
+extensively validated for its ability to assess 
+the efficacy of drugs for pulmonary edema, 
+but a different lung-on-a-chip would need to 
+be sufficiently validated for another lung-
+related context of use, such as pulmonary 
+fibrosis. End users often need to conduct such 
+validation studies for each new context of use 
+to have sufficient scientific confidence in the 
+results—including for internal decision-
+making or regulatory filings.  
+The Texas A&M Tissue Chip Validation (TEX-
+VAL) Consortium is an example of an 
+organization that performs OOC validation 
+studies for various stakeholders (see text 
+box). EPA told us that TEX-VAL gave the 
+agency insight into technical and quality 
+control issues that may arise with particular 
+OOCs, which helped to guide selection of OOC 
+systems and informed best practices to 
+mitigate technical challenges. 
+3.5 Limited data sharing 
+Developers and end users can be reluctant to 
+or may lack capacity to share their OOC 
+research findings, which can hinder 
+understanding and validation of the 
+technology. Experts told us companies are 
+hesitant to share information due to concerns 
+about intellectual property and loss of 
+competitive advantages. Additionally, one 
+end user from a drug company told us they 
+conduct OOC validation studies in house and 
+take the time to publish the results, but other 
+companies do not normally publish the results 
+from their OOC studies. Companies are also 
+hesitant to submit OOC data to regulators 
+unless the data are overwhelmingly positive 
+because they are concerned any negative 
+data may jeopardize an application’s chance 
+of approval. 
+Experts we spoke with indicated there have 
+been some efforts to increase OOC data 
+sharing within the field. For example, in 2017 
+NCATS supported the creation of a database 
+at the University of Pittsburgh as a central 
+archive for data generated in OOC validation 
+centers, such as TEX-VAL. It was designed to 
+aggregate and manage data from OOCs and 
+related technologies and evaluate them 
+against reference data. As of December 2024, 
+NCATS told us that the database was acquired 
+by a private company and was transitioning 
+The Texas A&M Tissue Chip Validation (TEX-
+VAL) Consortium 
+TEX-VAL is a human organ-on-a-chip (OOC) validation center 
+started in 2016 with funding from the National Institutes of 
+Health (NIH). From 2020 to 2023, TEX-VAL worked to 
+replicate published findings on and assess the robustness of 
+OOCs in more than 100 studies, including OOCs that model 
+the kidney, liver, intestine, blood-brain barrier, lung, and 
+female reproductive system.  
+Members pay an annual fee and provide two or three 
+scientists to participate in monthly meetings and 
+communicate their organization’s needs and testing goals. In 
+exchange, members gain exclusive access to all TEX-VAL 
+data for 1 year following a study’s completion, after which 
+the data become public. Members also share OOC best 
+practices and receive technical and scientific support from 
+TEX-VAL scientists.  
+Since 2020, the Consortium has been a mix of companies 
+and government agencies. NIH has participated every year 
+from 2020 to 2025. The Environmental Protection Agency 
+was a member from 2020 to September 2023, and the 
+agency told us that, due to budget cuts, it left after its 
+contract with TEX-VAL ended. As of 2025, TEX-VAL had 
+seven members, including drug and chemical companies.  
+Source: GAO analysis of TEX-VAL information; EPA.  |  GAO-25-107335  
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   22 
+the data from the university to  
+private management.34 
+ 
+34NCATS told us that NIH-funded investigators who generate or 
+submit data will continue to receive free access, whereas a 
+subscription fee would be required for those not submitting 
+data. 
+35For example, see Szczepan W. Baran et al. “Perspectives on 
+the Evaluation and Adoption of Complex In Vitro Models in 
+Drug Development: Workshop with the FDA and the 
+Pharmaceutical Industry (IQ MPS Affiliate),” ALTEX - 
+Alternatives to Animal Experimentation (2022), DOI: 
+https://doi.org/10.14573/altex.2112203; Lorna Ewart et al. 
+Multiple consortia encourage data sharing 
+among members but still face obstacles. For 
+example, one consortium promotes 
+collaboration and data sharing, but this 
+collaboration is often ad hoc, and their 
+membership is limited to the pharmaceutical 
+industry. This consortium has held at least 
+two workshops with FDA and pharmaceutical 
+companies and has published multiple papers 
+on select topics related to OOCs.35  
+3.6 Regulatory uncertainties 
+According to experts, the OOC field faces 
+challenges related to regulatory uncertainties, 
+including regulators’ understanding of OOCs, 
+unclear FDA regulatory guidance and 
+messaging, and FDA’s nascent  
+qualification program. 
+Regulators’ understanding of OOCs. 
+Regulatory agencies have many years of 
+training and experience reviewing data from 
+conventional laboratory methods, such as 2D 
+cell models and animals, but officials told us 
+they have less familiarity with new 
+methodologies, including OOCs. Furthermore, 
+regulatory agencies need trained staff to 
+interpret OOC data for decision making. GAO 
+has previously reported on workforce 
+constraints at both FDA and EPA, which can 
+affect regulatory reviews.36  
+“Navigating tissue chips from development to dissemination: A 
+pharmaceutical industry perspective,” Experimental Biology 
+and Medicine (2017), DOI: 
+https://doi.org/10.1177/1535370217715441. 
+36GAO, EPA Chemical Reviews: Workforce Planning Gaps 
+Contributed to Missed Deadlines, GAO-23-105728 (Washington, 
+D.C.: February 2023); GAO, FDA Workforce: Agency-Wide 
+Workforce Planning Needed to Ensure Medical Product Staff 
+Meet Current and Future Needs, GAO-22-104791 (Washington, 
+D.C.: January 2022).  
+Safe harbor designation for organ-on-a-chip 
+(OOC) data 
+What is it? 
+Safe harbor designation, or voluntary data submission, is a 
+way for companies to submit exploratory data to regulators 
+without the risk of regulatory decisions being made based on 
+those data.   
+Safe harbor previously used for genomic data 
+The U.S. Food and Drug Administration (FDA) used this 
+approach beginning in 2004 to encourage companies to 
+submit genomic data, which includes aspects of DNA, to gain 
+understanding of this type of data. Within 5 years, FDA 
+received over 40 data submissions and had more than 35 
+meetings with companies. According to a review of this 
+program, these meetings led to mutually beneficial 
+discussions between FDA and companies and helped the 
+companies integrate genomic data into drug  
+development pipelines. 
+Potential use of safe harbor for OOC data  
+Experts told us that a safe harbor designation for OOC data 
+may help encourage more inclusion of such data in regulatory 
+filings. For example, one expert told us this could help 
+companies gauge the receptivity of FDA toward OOC data 
+necessary to support regulatory applications. A 2021 survey 
+of over 20 drug companies showed that companies thought 
+safe harbor could help address their concerns with regulatory 
+bodies misinterpreting or overinterpreting  
+OOC data.  
+FDA officials told us that they are not aware of any plan to 
+create a safe harbor designation for OOC data. These officials 
+told us it may be difficult to allocate resources for this 
+purpose and could present new challenges for FDA, 
+specifically if OOC data raised safety concerns. The European 
+Medicines Agency, which regulates drugs for the European 
+Union, began offering safe harbor for OOC data in Europe in 
+2016.  
+Source: GAO analysis of scientific literature.  |  GAO-25-107335 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   23 
+FDA officials told us they are currently 
+working to better understand OOC 
+performance from a regulatory perspective, 
+including how to interpret results and 
+understand reproducibility. FDA has assessed 
+OOC data on a case-by-case basis in its 
+regulatory reviews—including in applications 
+to begin clinical trials. However, FDA officials 
+told us that having trained staff to evaluate 
+and interpret OOC data is the largest barrier 
+the agency faces with regards to OOC given 
+the newness and rapidly changing nature of 
+the technology. The agency is evaluating 
+various OOCs for the potential regulatory 
+utility based on specific contexts of use, 
+including their benefits and limitations, and 
+engaging in workshops with developers and 
+end users. In the near term, FDA officials told 
+us that OOCs may complement conventional 
+laboratory methods and, in some cases, 
+possibly eliminate specific animal tests. For 
+example, FDA officials told us that OOCs may 
+help replace certain animal tests that assess 
+aspects of liver toxicity. In addition, when 
+animal tests or clinical trials show toxicity in a 
+specific organ, FDA officials told us OOCs may 
+be used to investigate how that toxicity 
+developed. This could allow the drug 
+companies to better understand the drug’s 
+utility for specific applications or 
+subpopulations.  
+In April 2025, FDA released a roadmap that 
+describes how the agency might reduce its 
+reliance on animal testing for drug safety 
+studies in favor of validated animal 
+alternatives, such as OOC.37 The roadmap 
+ 
+37FDA, Roadmap to Reducing Animal Testing in Preclinical 
+Safety Studies (April 2025). 
+38On April 10, 2025, FDA announced that it will host a public 
+workshop with federal partners later in 2025, among other 
+things. See FDA, “FDA Announces Plan to Phase Out Animal 
+focuses on safety evaluations for monoclonal 
+antibodies (a type of biologic) and describes a 
+stepwise approach to reducing animal testing 
+more broadly. In the roadmap, FDA says it will 
+provide training workshops to individual 
+agency staff on interpreting OOC data, 
+highlight successful cases of using animal 
+alternatives, and maintain open dialogue with 
+industry, academia, and nongovernment 
+organizations, among other things.38  
+EPA is also working to better understand 
+OOC’s benefits and limitations. Between 2017 
+and 2023, EPA received submissions with 
+hundreds of studies reporting data from OOCs 
+that assess skin and eye hazards using 
+internationally accepted test methods 
+validated by OECD. However, applying OOCs 
+to other environmental health and chemical 
+safety contexts of use is difficult because 
+many OOCs are developed for pharmaceutical 
+and other biomedical purposes, according to 
+officials. In addition, EPA officials told us that 
+the agency needs additional funding and 
+training for staff to understand and interpret 
+OOCs for regulatory decision making. For 
+example, officials said that data generated 
+from OOC are often atypical compared with 
+data from animal models and may require 
+special training for risk assessors to feel 
+confident in interpreting OOC data.  
+Unclear FDA regulatory guidance and 
+messaging. Although FDA has published 
+recent statements communicating its support 
+for replacing and reducing animal testing 
+where appropriate, and using alternatives to 
+Testing Requirement for Monoclonal Antibodies and Other 
+Drugs,” published April 10, 2025, https://www.fda.gov/news-
+events/press-announcements/fda-announces-plan-phase-out-
+animal-testing-requirement-monoclonal-antibodies-and-other-
+drugs, accessed April 16, 2025. 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   24 
+animal studies such as OOCs, the agency has 
+not published guidance specific to OOCs.39 
+FDA told us that its Office of New Drugs 
+within the Center for Drug Evaluation and 
+Research plans to publish guidance regarding 
+a broader use of OOCs and related 
+technologies in drug applications but the 
+timeline is unknown. FDA’s April 2025 
+roadmap signals a more proactive stance 
+toward replacing and reducing animal testing, 
+where appropriate, using alternatives such as 
+OOCs, but it did not describe precise types of 
+studies or data FDA would like to see. FDA 
+officials told us that the specific limitations of 
+each OOC and its context of use will define 
+the studies needed for OOC validation. 
+Officials also told us that additional OOC-
+related guidance for drug sponsors would be 
+determined by the relevant FDA review team 
+for a specific application. 
+Selected developers and end users told us 
+they do not fully understand which data they 
+should submit to FDA for regulatory 
+submissions. For example, one end user from 
+a drug company told us that companies would 
+like more clarity from FDA on what is needed 
+for OOC studies to show equivalency with 
+conventional methods. In addition, another 
+end user from a drug company told us they 
+have received different advice depending on 
+the individual staff they communicate with at 
+FDA. In April 2025, this same end user told us 
+that FDA’s roadmap and news release 
+indicated different messaging compared to 
+recent interactions with the agency. Two 
+other end users from drug companies 
+expressed optimism about the roadmap but 
+emphasized the remaining work necessary to 
+validate these models.40 
+FDA’s qualification program is in the early 
+stages. As of December 2024, no OOC has 
+been qualified by FDA for use in regulatory 
+review. However, developers can apply to 
+have their systems qualified for specific 
+contexts of use through FDA’s Innovative 
+Science and Technology Approaches for New 
+Drugs (ISTAND) Pilot Program, which the 
+agency established in 2020.41 FDA officials 
+told us that OOC developers have had 
+challenges crafting appropriate contexts of 
+use for their ISTAND applications and, in some 
+cases, FDA worked with these developers to 
+resubmit improved versions. In September 
+2024, ISTAND accepted its first letter of intent 
+for an OOC—a liver-on-a-chip system—
+designed to predict drug-induced liver injury 
+for certain drug candidates, which is step one 
+of a three-step qualification process. If this 
+liver-on-a-chip is qualified by FDA, drug 
+sponsors may use it for any drug 
+development programs for that specific 
+context of use. 
+ 
+ 
+ 
+39In addition to FDA’s April 2025 roadmap and news release 
+mentioned above, see Chad P. Nelson et al. “Advancing 
+alternative methods to reduce animal testing,” Science (2024), 
+DOI: https://doi.org/10.1126/science.adg6228. 
+40We followed up with three selected end users to obtain their 
+views on FDA’s April 2025 roadmap and news release. 
+41The ISTAND program was established pursuant to section 
+3011 of the 21st Century Cures Act of 2016. Pub. L. No. 114-
+255, tit. III, subt. B, § 3011, 130 Stat. 1033, 1086-91. 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   25 
+4 Policy Options for OOC Technologies
+We identified six policy options that 
+policymakers—including legislative bodies, 
+government agencies, academics, OOC 
+developers, end users, and other groups—
+could consider taking to help enhance 
+benefits or address challenges to the 
+development or use of OOCs. We identified 
+these policy options through meetings with 
+experts and our review of the literature. This 
+list is not exhaustive but can provide 
+policymakers with a broader base of 
+information and examples for decision-
+making. For each policy option, we present a 
+table with multiple potential implementation 
+approaches, opportunities the action may 
+present, and factors to consider. The policy 
+options we identified include (1) supporting 
+efforts to increase access to diverse, high-
+quality human cells, (2) supporting standards 
+development for OOC, (3) encouraging more 
+research and development of benchmarks 
+and validation studies, (4) creating or 
+participating in mechanisms for data sharing, 
+(5) providing additional regulatory guidance, 
+and (6) maintaining the status quo. 
+4.1 Policy Option: Support efforts to 
+increase access to diverse, high-
+quality human cells  
+Challenge. A lack of human cells in sufficient 
+quantity, quality, and diversity could limit the 
+use and adoption of OOC. Policymakers 
+wishing to address this challenge could 
+support efforts to increase access to diverse, 
+high-quality human cells (see table 1).
+Table 1: Potential implementation approach to support efforts to increase access to diverse, high-
+quality human cells 
+Potential Implementation 
+Approach 
+Opportunities 
+Considerations 
+Federal entities, together with 
+academic and industry 
+stakeholders, could support the 
+establishment of high-quality cell 
+banks and biospecimen repositories 
+that incorporate population 
+diversity.  
+Could provide developers and end 
+users with a supply of diverse 
+human cells for future organ-on-a-
+chip research.  
+Current efforts to establish cell 
+banks for related technologies may 
+provide a model for these efforts. 
+May require a high level of 
+stakeholder coordination, additional 
+resources, and scientific expertise. 
+May require additional standardized 
+cell protocols and reference 
+materials.  
+ 
+Source: GAO. | GAO-25-107335 
+ 
+ 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   26 
+4.2 Policy Option: Support standards 
+development for OOC  
+Challenge. A lack of OOC-specific standards 
+may negatively affect innovation, 
+communication, and the reproducibility and 
+comparability of results—making it more 
+difficult to use the technologies. Policymakers 
+wishing to address this challenge could 
+support standards development (see table 2). 
+Table 2: Potential implementation approaches to support standards development for OOC 
+Potential Implementation 
+Approach 
+Opportunities 
+Considerations 
+Standards-coordinating bodies, in 
+collaboration with developers, end 
+users, regulators, and others, could 
+help determine the need for global 
+organ-on-a-chip (OOC) standards 
+and help establish agreement on 
+minimum standards and 
+acceptance criteria, as appropriate.  
+Could improve communication 
+about key concepts and the 
+reproducibility and comparability 
+of results. 
+Could increase understanding and 
+lower the barrier to using OOCs for 
+new users. 
+Could support more widespread 
+use of OOCs. 
+Standards development is difficult for 
+emerging technologies such as OOC 
+because the systems are rapidly 
+evolving, and standards require 
+broad stakeholder consensus. 
+Establishing standards too early 
+could stifle innovation  
+and competition.  
+May require a high level of effort and 
+collaboration between standards-
+coordinating bodies, developers, end 
+users, regulators, government 
+agencies, and relevant consortia and 
+international bodies. 
+A government agency could 
+convene stakeholders within U.S.-
+based government agencies, 
+academia, and industry to form a 
+working group to address the 
+specific needs for U.S. standards.  
+Could build upon existing 
+international efforts in the 
+European Union and elsewhere. 
+Could potentially reach agreement 
+sooner on what is needed within 
+the U.S. versus what is needed for 
+global harmonization.  
+Additional coordination may be 
+required to harmonize these efforts 
+with international standards working 
+groups or technical committees.  
+Drug and chemical companies could 
+standardize formats for OOC data 
+submission to regulators. 
+Regulators may be able to 
+uniformly assess OOC data, which 
+may accelerate regulatory review 
+and build scientific confidence. 
+Could reduce companies’ flexibility in 
+submissions or be too restrictive.  
+Regulators may require companies to 
+submit data in a specific format.  
+Data submission to regulators is 
+often proprietary and not made 
+public, therefore it may not benefit 
+all OOC stakeholders.  
+Could be dependent on adherence of 
+OOC component providers, such as 
+cell banks and drug suppliers, to 
+reporting requirements.  
+Source: GAO. | GAO-25-107335 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   27 
+4.3 Policy Option: Encourage more 
+research and development of 
+benchmarks and validation studies 
+Challenge. End users and regulators lack 
+sufficient benchmarks and validation studies 
+necessary to gain scientific confidence in 
+OOCs and understand how these technologies 
+compare with conventional methods and data 
+from clinical trials. Policymakers wishing to 
+address this challenge could encourage 
+research and development of benchmarks 
+and validation studies (see table 3). 
+Table 3: Potential implementation approaches to encourage research and development of benchmarks 
+and validation studies 
+Potential Implementation 
+Approach 
+Opportunities 
+Considerations 
+Relevant funding agencies could 
+provide more funding to academics 
+and companies for organ-on-a-chip 
+(OOC) research, specifically to 
+validate OOCs for priority contexts 
+of use. 
+Could help to identify relevant 
+benchmarks to validate OOCs for 
+specific contexts of use. 
+Could increase the number of 
+published validation studies and 
+lead to increased scientific 
+confidence in OOCs. 
+Could help train scientists in 
+understanding and operating 
+OOCs. 
+Investments in OOCs may reduce 
+available funding for other 
+technologies.  
+Defining priority contexts of use will 
+require input from and coordination 
+with end users, such as drug or 
+chemical companies.  
+Relevant funding agencies could 
+create guidance that encourages 
+the inclusion of human-relevant 
+data, including OOC data, in  
+grant applications. 
+Could signal that funding agencies 
+recognize the need for additional 
+benchmarking and validation 
+studies. 
+ 
+Peer reviewers at funding agencies 
+are primarily versed in animal 
+studies, so there may be a need to 
+train peer reviewers on OOC 
+technology and data.  
+Drug and chemical company 
+leadership could provide support in 
+terms of time and money for 
+continued OOC studies and 
+validation efforts. 
+Could increase scientific 
+confidence in OOCs for more 
+applications.  
+Could increase staff expertise  
+in understanding and  
+operating OOCs. 
+Companies may be hesitant to 
+further invest because there is 
+uncertainty in whether the validation 
+studies could provide useful results 
+and increase confidence. 
+A public-private partnership or 
+other consortium could collaborate 
+with federal agencies and 
+companies to create reference 
+compound lists for specific contexts 
+of use.  
+For drug companies, a reference 
+compound list could help 
+researchers understand whether 
+an OOC model is predictive of 
+human responses to new drugs. 
+For chemical companies, a 
+reference compound list could 
+allow researchers to compare the 
+performance of their OOC model 
+to conventional methods.  
+Reference compounds for specific 
+contexts of use could be 
+considered for inclusion in 
+regulatory guidance.  
+One list may not cover all aspects of 
+a context of use, and users of these 
+reference compounds would need to 
+consider the specific needs of 
+regulatory agencies. 
+May be challenging due to potential 
+issues regarding ownership and use 
+of the compound. 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   28 
+Potential Implementation 
+Approach 
+Opportunities 
+Considerations 
+Academia and industry could 
+facilitate the U.S. Environmental 
+Protection Agency’s (EPA) 
+participation in the development 
+and refinement of OOC through 
+public-private partnerships. 
+Could provide EPA an opportunity 
+to communicate their unique 
+needs compared to the  
+biomedical space. 
+Could lead to validated OOC 
+models for chemical assessments.  
+Could require resources to validate 
+models for EPA’s use that were 
+originally intended for academic or 
+basic research purposes. 
+Government agencies, academia, 
+and industry could collaborate to 
+publish peer-reviewed articles that 
+describe OOC validation methods 
+and results.  
+Could demonstrate utility of OOCs 
+across sectors. 
+Could help move OOC from the 
+experimental phase toward 
+inclusion in regulatory applications. 
+Stakeholder collaboration can be 
+complex and require high levels of 
+coordination and resources.  
+Publications may be viewed as 
+opinion pieces or recommendations 
+rather than as benchmarks  
+or requirements.  
+Source: GAO.  |  GAO-25-107335 
+ 
+ 
+4.4 Policy Option: Create or 
+participate in mechanisms for data 
+sharing  
+Challenge. Developers and end users are 
+reluctant to share data with different parties, 
+including regulators, or do not share data with 
+other stakeholders because of limited 
+capacity. In both cases, the lack of data 
+sharing hinders growth and understanding in 
+the field. Policymakers wishing to address this 
+challenge could create or participate in 
+mechanisms for data sharing (see table 4).  
+Table 4: Potential implementation approaches to create or participate in mechanisms for data sharing 
+Potential Implementation 
+Approach 
+Opportunities 
+Considerations 
+Organ-on-a-chip (OOC) developers 
+and drug companies could 
+participate in precompetitive 
+efforts to share OOC data freely, 
+such as sharing data through an 
+industry trade group, nonprofit, or 
+other trusted third party. 
+Could help end users and 
+regulators assess the robustness  
+of OOC. 
+Could facilitate the development  
+of benchmarks by sharing 
+comparisons of processes  
+and studies.  
+Could increase alignment and 
+engagement among relevant 
+stakeholders. 
+ 
+Could require significant stakeholder 
+coordination and resources.  
+Companies may need additional 
+incentives to participate for fear of 
+losing a competitive advantage.   
+May require an assessment of which 
+OOC methods would be most likely 
+to benefit. 
+May depend on the development of 
+standardized formats for reporting 
+data. 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   29 
+Potential Implementation 
+Approach 
+Opportunities 
+Considerations 
+OOC developers and drug and 
+chemical companies could publish 
+successful case studies that 
+describe OOC experimental designs 
+and how OOC data were used for 
+internal decision-making or in 
+regulatory filings. Companies could 
+then make those data accessible.   
+Could build confidence in and aid 
+adoption of OOC.  
+Could save time and resources by 
+avoiding duplicative efforts, 
+allowing the field to advance more 
+quickly and efficiently.  
+Could require additional resources to 
+compile and submit results for 
+publications.  
+Companies may be hesitant to share 
+strategies or proprietary data. 
+The U.S. Food and Drug 
+Administration and U.S. 
+Environmental Protection Agency 
+could offer incentives to submit 
+OOC data, such as providing 
+expedited review of regulatory 
+packages that include OOC data. 
+Could lead to increased regulatory 
+submissions that include OOC data, 
+which could increase regulators’ 
+familiarity and confidence in  
+the data.  
+Could require regulatory agencies to 
+define what constitutes an OOC as 
+opposed to other alternatives to 
+conventional methods.  
+Regulatory agencies may be 
+constrained by workforce capacity to 
+offer such expedited reviews.  
+Source: GAO.  |  GAO-25-107335 
+ 
+ 
+4.5 Policy Option: Provide additional 
+regulatory guidance  
+Challenges. Developers and end users are 
+uncertain about what regulators need to see 
+in submissions that include OOC data for 
+specific applications. There is also a lack of 
+regulatory guidance specific to OOC. 
+Policymakers who wish to address these 
+challenges could take actions that provide 
+additional regulatory guidance (see table 5).  
+Table 5: Potential implementation approaches to provide additional regulatory guidance 
+Potential Implementation 
+Approach 
+Opportunities 
+Considerations 
+Congress could increase the 
+amount of agency funding 
+specifically targeted to recruit and 
+train regulatory staff to prepare 
+guidance and review organ-on-a-
+chip (OOC) data for regulatory 
+decisions. 
+Targeted staff training could 
+increase regulatory agencies’ 
+scientific confidence in OOC. 
+Additional staff could result in 
+more timely and productive 
+interactions between regulators 
+and developers or end users. 
+Regulatory agencies may still have 
+difficulties recruiting and retaining a 
+trained workforce—for example,  
+due to pay disparities with the 
+private sector. 
+The U.S. Food and Drug 
+Administration (FDA) and U.S. 
+Environmental Protection Agency 
+(EPA) could create guidance that 
+encourages the inclusion of human-
+relevant data, such as OOC data, in 
+applications to begin clinical trials 
+or new chemical risk assessments.  
+Could help developers and end 
+users better understand what data 
+they need to submit to regulators. 
+Could reduce variability in 
+feedback individual regulatory staff 
+provide to developers and  
+end users.  
+Regulatory agencies may not want to 
+draft specific guidance for OOC 
+before they fully understand the 
+technology or how it will be used. 
+Developers and end users may still 
+be hesitant to submit OOC data to 
+regulators out of concern that it may 
+jeopardize a regulatory application’s 
+chance of approval. 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   30 
+Potential Implementation 
+Approach 
+Opportunities 
+Considerations 
+Could further signal regulators’ 
+openness to receiving human-
+relevant data, including OOC data, 
+into regulatory decision-making.  
+FDA and EPA could publish 
+scenarios for which it has accepted 
+OOC as a replacement for animal 
+studies and the reasoning behind 
+their acceptance.  
+Could help OOC developers and 
+end users move forward with 
+validating certain OOCs, which 
+could facilitate further 
+development.  
+Could provide additional details 
+and transparency beyond what 
+FDA currently publishes. 
+The proprietary nature of 
+applications submitted to regulatory 
+agencies could make it challenging 
+for them to share details of  
+those applications.  
+Could require regulatory agencies to 
+dedicate resources to these 
+ new efforts. 
+FDA and EPA could provide detailed 
+guidance on how specific OOCs can 
+more readily replace a conventional  
+laboratory method.  
+Could increase data transparency 
+and communication between 
+regulators and end users. 
+Clarity from regulators on 
+appropriate use cases within their 
+regulatory purview could build 
+confidence in the models and 
+increase regulatory experience 
+with these data. 
+This approach may not be helpful for 
+certain OOC use cases.  
+Standardized test guidelines that 
+include OOC may be needed before 
+regulators can develop  
+such guidance.   
+Guidance that is too specific could 
+constrain developers and end users. 
+A public-private partnership could 
+coordinate a working group where 
+regulators interact regularly with 
+OOC end users at all stages  
+of readiness. 
+Could provide an opportunity for 
+regulators to provide early input 
+and feedback, which could clarify 
+requirements for regulatory 
+acceptance of OOC data. 
+Collaboration with regulators can  
+be complex.  
+Though stakeholders often request 
+regulator participation, there can be 
+tension when regulators are too 
+involved with a project. 
+Source: GAO.  |  GAO-25-107335 
+ 
+ 
+4.6 Policy Option: Maintain the  
+status quo 
+Current efforts (the status quo) may help 
+address some of the challenges identified in 
+this report. However, other challenges may 
+remain unresolved or potential benefits may 
+not be realized. Policymakers could sustain 
+current efforts that may help mitigate 
+challenges to the use and adoption of OOC 
+(see table 6). 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   31 
+Table 6: Potential implementation approaches to maintain the status quo 
+Potential Implementation 
+Approach 
+Opportunities 
+Considerations 
+Organ-on-a-chip (OOC) developers 
+and end users could continue to 
+use technologies that are  
+currently available. 
+Government entities, academic 
+institutions, and industry could 
+continue current research and 
+validation efforts.  
+OOC stakeholders could rely on 
+current data sharing efforts, such as 
+workshops and published papers 
+from trade groups and  
+other organizations.  
+ 
+ 
+Could allow resources to be used 
+for other purposes.  
+Current efforts to address cell 
+sourcing issues, develop standards, 
+benchmark and validate OOC 
+models, share data, and provide 
+regulatory clarity may improve  
+on their own as the  
+technology advances. 
+ 
+Currents efforts may not fully 
+address the challenges described in 
+this report. 
+Until the challenges in this report are 
+addressed, companies may continue 
+using animals when it is cheaper and 
+faster than developing confidence in 
+OOCs. 
+Developers, end users, and 
+regulators may continue to face 
+challenges in understanding the 
+results from OOCs and potential of 
+the technology. 
+Developers may have difficulties 
+advancing OOCs to the market. 
+Europe may continue to advance 
+standards development for OOC. 
+Technologies may be more likely to 
+fail in regulatory submissions due to 
+a lack of clarity and guidance.  
+Source: GAO.  |  GAO-25-107335 
+ 
+ 
+
+Human Organ-on-a-Chip  |  GAO-25-107335   32 
+5 Agency and Expert Comments 
+We provided a draft of this report to the U.S. Department of Health and Human Services (Food 
+and Drug Administration and National Institutes of Health); the U.S. Department of Defense; the 
+U.S. Department of Commerce (National Institute of Standards and Technology); and the U.S. 
+Environmental Protection Agency with a request for technical comments. We incorporated 
+agency comments into this report as appropriate. 
+We also offered experts who participated in our work the opportunity to review and comment 
+on a draft of this report. We received technical comments from 14 experts and incorporated 
+them as appropriate. 
+We are sending copies of this report to the appropriate congressional committees and other 
+interested parties. In addition, the report is available at no charge on the GAO website 
+at http://www.gao.gov. 
+If you or your staff members have any questions about this report, please contact Karen L. 
+Howard, PhD, at HowardK@gao.gov. Contact points for our Offices of Congressional Relations 
+and Public Affairs may be found on the last page of this report. GAO staff who made key 
+contributions to this report are listed in appendix III. 
+//SIGNED// 
+Karen L. Howard, PhD 
+Director, 
+Science, Technology Assessment, and Analytics 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   33 
+Appendix I: Objectives, Scope, and Methodology
+Objectives  
+We describe our scope and methodology  
+for addressing the three objectives  
+outlined below: 
+1. What are current and emerging organ-on-
+a-chip (OOC) technologies, and what are 
+their benefits?  
+2. What are the challenges to developing 
+and using these technologies? 
+3. What options could policymakers 
+consider to help enhance the benefits or 
+mitigate the challenges?  
+To address all research objectives, we 
+conducted a literature search, reviewed key 
+reports and peer-reviewed articles, and 
+convened a 2-day expert discussion group. In 
+addition, we interviewed a selection of key 
+experts, including those from federal 
+agencies; academia; nonprofits; and private 
+companies, including developers and end 
+users of OOCs. We also attended 3 technical 
+conferences or workshops and visited labs 
+researching OOC and cell-based systems at 
+the National Institute of Standards and 
+Technology (NIST) to better understand these 
+technologies.  
+Scope  
+The scope of our assessment included OOCs 
+that are currently in use or in development by 
+academic, industrial, or government 
+researchers. For the purposes of this report, 
+ 
+42Some articles identified during the course of our work were 
+published before this date. 
+we define OOCs to be small, experimental 
+laboratory tools that contain human cells and 
+mimic how organs and systems in the human 
+body work. This includes both tools that 
+include a microfluidic component (i.e., media 
+flowing through small channels in a 3D 
+system), as well as other cell-based tools such 
+as organoids (i.e., small, artificially grown 
+groups of human cells). We did not include 
+other advanced tools such as 3-dimensional 
+bioprinted tissues and organs. The OOCs 
+described in this report are illustrative 
+examples of the range of applications of the 
+technology and are not an exhaustive list. We 
+assessed the general status of OOC to model 
+various organs but did not assess the product 
+of any particular developer. 
+Methodology 
+Literature search and review 
+For all objectives, we reviewed relevant 
+literature identified by agency officials, 
+experts, and our literature search. A GAO 
+research librarian conducted a literature 
+search to identify articles relevant to all 
+objectives. The librarian searched a variety of 
+databases, including through ProQuest (e.g., 
+Chemical Engineering & Biotechnology 
+Abstracts, Lancet Title, ProQuest Biological & 
+Health Science Professional) and SCOPUS, 
+using terms such as organ-on-a-chip, research 
+and development, and benchmark. We 
+narrowed our search to articles published in 
+the last 5 years to capture recent 
+development and uses of OOCs.42 Results of 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   34 
+these searches could include scholarly or 
+peer-reviewed material; government reports; 
+trade or industry papers; association, 
+nonprofit, and think tank publications; or 
+legislative materials. The search results 
+yielded 425 articles for initial selection and 
+review. We selected 82 articles most relevant 
+to our objectives for further review. We 
+gathered additional information using a 
+snowball technique.43 
+Interviews 
+We interviewed a selection of agency officials 
+and experts with experience and perspectives 
+on the above objectives. (See app. II for a list 
+of experts we spoke with.) We identified 
+these interviewees from our review of the 
+literature, the conferences we attended, and 
+other interviews. We ensured that 
+interviewees represented a diversity of views 
+by selecting individuals or organizations from 
+multiple sectors (e.g., government, industry), 
+OOC applications (e.g., pharmaceutical, 
+agrochemical), and roles (e.g., OOC 
+developer, end user, regulator). Interviewees 
+included officials or representatives from 
+• 
+four relevant federal agencies—the U.S. 
+Environmental Protection Agency, 
+including the Office of Research and 
+Development and Office of Chemical 
+Safety and Pollution Prevention; the U.S. 
+Department of Health and Human 
+Services, including the National Institutes 
+of Health and the Food and Drug 
+Administration; the U.S. Department of 
+Commerce, including the National 
+ 
+43The snowball technique involves identifying additional 
+articles or reports within those we had already reviewed on the 
+topic. 
+Institute of Standards and Technology; 
+and the U.S. Department of Defense, 
+including the Defense Threat Reduction 
+Agency; 
+• 
+one European government agency that 
+regulates drugs; 
+• 
+five academic researchers or research 
+groups; 
+• 
+six private companies including both OOC 
+developers and end users for different 
+applications (e.g., pharmaceutical, 
+agrochemical);  
+• 
+two industry consortia; and 
+• 
+two nonprofits. 
+Because this is a purposeful, nongeneralizable 
+selection of the stakeholders involved in 
+developing and using OOCs, the results of our 
+interviews are illustrative and are not 
+generalizable to all expert perspectives. 
+Expert discussion group 
+We convened an expert discussion group to 
+inform our assessment of OOC technologies. 
+The meeting was held virtually over 2 days 
+with a total of 16 experts.44 (See app. II for a 
+list of experts we spoke with, including 
+discussion group participants.) We identified 
+subject matter experts covering significant 
+areas of our assessment—including OOC 
+developers, end users, research funders, and 
+those with relevant expertise such as 
+toxicology or policy—based on information 
+from our interviews, our review of literature 
+and other documentation, the conferences 
+44Some experts were only able to attend one of the two days. 
+10 experts participated on the first day; 13 experts participated 
+on the second day; and 7 experts participated on both days.   
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   35 
+we attended, and web searches (e.g., 
+conference and industry websites). We 
+interviewed a selection of these subject 
+matter experts to better understand various 
+perspectives on OOC technology as described 
+above. Of the interviewees, we selected 12 
+experts to participate in the discussion group. 
+We selected an additional 4 experts based on 
+expert recommendations and their specific 
+area of expertise. Experts were selected 
+considering a balance of perspectives from a 
+variety of sectors (federal government; 
+academia; industry; and nonprofits). From 
+these sectors, we included experts who 
+research and develop OOCs (developers), 
+experts who use OOCs (end users), and 
+experts who do both. We also included those 
+with other expertise, such as policy expertise 
+relevant to OOCs.  
+We evaluated the experts for potential 
+conflicts of interest, which we considered to 
+be any current financial or other interest that 
+might conflict with the service of an individual 
+because it could (1) impair objectivity or (2) 
+create an unfair competitive advantage for 
+any person or organization. We determined 
+14 experts to be free of reported conflicts of 
+interest. Two experts reported conflicts of 
+interest, which we determined to be outside 
+the scope of the meeting or sufficiently 
+addressed by the overall design of our 
+meeting and methodology because 
+discussions did not revolve around any 
+specific technology, company, or vested 
+interest. The 16 experts collectively were 
+determined to not have any inappropriate 
+biases. The comments of experts represented 
+their individual views and not the 
+organizations with which they were affiliated 
+and are not generalizable to the views of 
+others in the field. 
+We divided the 2-day discussion group into 
+three moderated discussion sessions: (1) state 
+of OOC technologies, including potential 
+benefits and developmental status; (2) 
+challenges to developing and using OOCs; and 
+(3) potential policy options. We provided 
+discussion questions and prompts for each 
+session and invited all experts to participate in 
+the discussion. The meeting was 
+professionally transcribed to ensure that we 
+accurately captured the experts’ statements. 
+After the meeting, we reviewed the 
+transcripts to synthesize the responses and to 
+inform our understanding of all three 
+researchable objectives. We offered the 
+experts at our discussion group the 
+opportunity to review and provide technical 
+comments on a draft of our report, which we 
+incorporated as appropriate. 
+Policy options 
+Based on our research, we developed a series 
+of policy options. Policy options are intended 
+to represent possible actions that 
+policymakers could take to address a policy 
+objective. These options are not listed in any 
+particular order, nor are they inclusive of all 
+possible policy options. We consider 
+policymakers to include legislative bodies, 
+government agencies, academics, OOC 
+developers, end users, and other groups. For 
+each policy option, we discussed potential 
+opportunities and considerations. We limited 
+policy options to those that fit the objective 
+and fell within the report scope. 
+We developed six policy options that could 
+help enhance the benefits or address the 
+challenges to development and use of OOCs, 
+including maintaining the status quo (i.e., 
+taking no action beyond activities that are 
+already occurring). For each policy option, we 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   36 
+identified multiple implementation 
+approaches that policymakers could consider. 
+To develop these, we compiled a list of 
+possible approaches over the course of our 
+work based on interviews, our expert 
+discussion group, and literature. We further 
+refined and assessed these approaches to 
+ensure they were adequately supported by 
+the evidence we collected and fit into the 
+overall scope of our work. We then analyzed 
+the information we collected to identify 
+potential opportunities and considerations of 
+each approach. We did not conduct work to 
+assess how effective the options may be and 
+express no view regarding the extent to which 
+legal changes would be needed to implement 
+them. The policy options, implementation 
+approaches, and analyses were supported by 
+documentary and testimonial evidence.
+We conducted our work from January 2024 to 
+May 2025 in accordance with all sections of 
+GAO’s Quality Assurance Framework that are 
+relevant to technology assessments. The 
+framework requires that we plan and perform 
+the engagement to obtain sufficient and 
+appropriate evidence to meet our stated 
+objectives and to discuss any limitations to 
+our work. We believe that the information 
+and data obtained, and the analysis 
+conducted, provide a reasonable basis for any 
+findings and conclusions in this product. 
+ 
+ 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   37 
+Appendix II: Expert Participation
+To conduct our work, we interviewed experts with experience as developers, end users, funders, 
+or regulators of organ-on-a-chip technologies. We also convened an expert discussion group, 
+which was held virtually over 2 days in September 2024. Experts who participated in these 
+interviews or discussions are listed below. Some of these experts provided additional assistance 
+throughout our work, including sending materials for review. In addition, 11 experts provided 
+feedback on policy options early in the drafting process. Fourteen experts reviewed our draft 
+report for accuracy and we incorporated their technical comments as appropriate.
+Richard Becker 
+Senior Toxicologist  
+American Chemistry Council 
+Imein Bousnina 
+Program Director, U.S. Regulatory Policy 
+Genentech  
+Lorna Ewart  
+Chief Scientific Officer  
+Emulate  
+Erin Greene  
+U.S. Lead, Global Regulatory Policy  
+and Innovation  
+Takeda Pharmaceuticals  
+Alison Harrill  
+Associate Director for Toxicology, Center for 
+Computational Toxicology and Exposure  
+Environmental Protection Agency  
+Thomas Hartung  
+Professor  
+Johns Hopkins Bloomberg School of  
+Public Health  
+James Hickman 
+Chief Scientist  
+Hesperos 
+Jonathan Himmelfarb 
+Professor  
+Icahn School of Medicine at Mount Sinai  
+Kim Homan 
+Senior Director, Complex In Vitro  
+Systems Group  
+Genentech  
+Donald Ingber  
+Founding Director and Professor 
+Wyss Institute at Harvard University 
+Edward J. Kelly 
+Associate Professor, Department  
+of Pharmaceutics 
+University of Washington  
+Nicole Kleinstreuer 
+Executive Director, Interagency Coordinating 
+Committee on the Validation of Alternative 
+Methods; Director, National Toxicology 
+Program Interagency Center for the 
+Evaluation of Alternative Toxicological 
+Methods, National Institute of Environmental 
+Health Sciences 
+National Institutes of Health  
+Julia Kühnlenz 
+Research Toxicologist  
+Bayer CropScience 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335   38 
+Megan LaFollette 
+Executive Director 
+3Rs Collaborative 
+Paul Locke 
+Professor 
+Johns Hopkins Bloomberg School of  
+Public Health  
+Graham Marsh 
+Scientific Director 
+Critical Path Institute  
+William Proctor 
+Senior Director, Toxicology  
+Program Specialist 
+GSK  
+Darwin Reyes 
+Biomedical Engineer, Project Leader, 
+Biomedical Microelectromechanical Systems  
+National Institute of Standards  
+and Technology 
+Ivan Rusyn 
+Professor 
+Texas A&M University   
+Danilo Tagle 
+Director, Office of Special Initiatives, National 
+Center for Advancing Translational Sciences  
+National Institutes of Health  
+Terry van Vleet  
+Senior Director, Investigative Toxicology  
+and Pathology  
+AbbVie 
+Matt Wagoner 
+Global Head of Investigative Toxicology  
+Takeda Pharmaceuticals 
+John Wikswo  
+Professor 
+Vanderbilt University 
+Catherine K. Yeung 
+Associate Professor, Department of 
+Pharmacy, School of Pharmacy 
+University of Washington 
+Ying Zheng 
+Associate Professor of Bioengineering 
+University of Washington 
+
+ 
+ 
+ 
+Human Organ-on-a-Chip  |  GAO-25-107335  39 
+Appendix III: GAO Contact and Staff Acknowledgments 
+GAO contact  
+Karen L. Howard, PhD, Director, Science, Technology Assessment, and Analytics (STAA), at 
+HowardK@gao.gov  
+ 
+Staff acknowledgments  
+In addition to the contact named above, the following STAA staff made key contributions to 
+this report:  
+Rebecca Parkhurst, PhD, Assistant Director  
+Cory Gerlach, PhD, Analyst-in-Charge and Senior Biological Scientist  
+Kevin Lyman, MA, Analyst 
+AJ Melhus, MS, Senior Engineer 
+Maheen Nawaz, MPH, Intern 
+Minda Nicolas, MPA, Senior Analyst  
+ 
+These staff also contributed to this work:  
+John Karikari, PhD, Assistant Director, Economist 
+Mark Kuykendall, MSJ, MPA, Senior Communications Analyst 
+Amy Pereira, JD, Senior Attorney  
+Joe Rando, Senior Visual Communications Analyst  
+Norma-Jean Simon, MPH, MPA, Senior Research Methodologist 
+Amber Sinclair, PhD, MSPH, Senior Research Methodologist  
+ 
+
+ 
+ 
+GAO’s Mission 
+The Government Accountability Office, the audit, evaluation, and investigative arm of Congress, 
+exists to support Congress in meeting its constitutional responsibilities and to help improve the 
+performance and accountability of the federal government for the American people. GAO 
+examines the use of public funds; evaluates federal programs and policies; and provides analyses, 
+recommendations, and other assistance to help Congress make informed oversight, policy, and 
+funding decisions. GAO’s commitment to good government is reflected in its core values of 
+accountability, integrity, and reliability. 
+Obtaining Copies of GAO Reports and Testimony 
+The fastest and easiest way to obtain copies of GAO documents at no cost is through GAO’s 
+website (https://www.gao.gov). Each weekday afternoon, GAO posts on its website newly 
+released reports, testimony, and correspondence. To have GAO e-mail you a list of newly posted 
+products, go to https://www.gao.gov and select “E-mail Updates.” 
+Order by Phone 
+The price of each GAO publication reflects GAO’s actual cost of production and distribution and 
+depends on the number of pages in the publication and whether the publication is printed in color 
+or black and white. Pricing and ordering information is posted on GAO’s website, 
+https://www.gao.gov/ordering.htm. 
+Place orders by calling (202) 512-6000, toll free (866) 801-7077, or  
+TDD (202) 512-2537. 
+Orders may be paid for using American Express, Discover Card, MasterCard, Visa, check, or money 
+order. Call for additional information. 
+Connect with GAO 
+Connect with GAO on Facebook, Flickr, Twitter, and YouTube. 
+Subscribe to our RSS Feeds or E-mail Updates.  
+Listen to our Podcasts and read The Watchblog. 
+Visit GAO on the web at https://www.gao.gov. 
+To Report Fraud, Waste, and Abuse in Federal Programs 
+Contact: Website: https://www.gao.gov/about/what-gao-does/fraudnet 
+Automated answering system: (800) 424-5454 or (202) 512-7700 
+Congressional Relations 
+A. Nicole Clowers, Managing Director, ClowersA@gao.gov, (202) 512-4400,  
+U.S. Government Accountability Office, 441 G Street NW, Room 7125, Washington, DC 20548 
+Public Affairs 
+Sarah Kaczmarek, Managing Director, KaczmarekS@gao.gov, (202) 512-4800 
+U.S. Government Accountability Office, 441 G Street NW, Room 7149, Washington, DC 20548 
+Strategic Planning and External Liaison 
+Stephen Sanford, Managing Director, spel@gao.gov, (202) 512-4707 
+U.S. Government Accountability Office, 441 G Street NW, Room 7814, Washington, DC 20548 

@@ -1,0 +1,27 @@
+# Frozen model roster for Track B v1
+# Freeze date: 2026-08-06
+
+generation:
+  temperature: 0.0
+  seed: 42
+
+models:
+  - id: phi4-mini
+    tag: latest
+    digest: "78fad5d182a7"
+
+  - id: llama3.2
+    tag: "3b"
+    digest: "a80c4f17acd5"
+
+  - id: qwen3
+    tag: "4b"
+    digest: "359d7dd4bcda"
+
+  - id: gemma3
+    tag: "4b"
+    digest: "a2af6cc3eb7f"
+
+  - id: mistral
+    tag: latest
+    digest: "6577803aa9a0"

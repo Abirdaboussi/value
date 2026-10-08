@@ -1,0 +1,206 @@
+ 
+ 
+ 
+United States Government Accountability Office 
+  
+Highlights of GAO-26-108687, a report to 
+congressional requesters 
+July 2026 
+ TECHNOLOGY ASSESSMENT 
+ 
+ 
+Critical Minerals 
+Reducing U.S. Import Reliance with 
+Substitution and Recycling Technologies 
+What GAO found 
+Technologies like batteries and semiconductors are essential to the U.S. economy 
+but rely on imports of lithium, gallium, and other critical minerals. GAO found that 
+substitution and recycling technologies could help reduce U.S. reliance on these 
+imports. But progress is likely to take many years in some cases. 
+Potential for technologies to reduce critical mineral import reliance 
+ 
+For batteries, substitution and recycling technologies offer near-term potential. For 
+example, using lithium iron phosphate batteries for stationary grid energy storage 
+might reduce imports of cobalt, manganese, and nickel in the next 2 to 3 years. But 
+these batteries do not perform as well in other applications, like long-haul electric 
+vehicles, due to their lower energy density. Lithium-free batteries are not yet 
+commercially mature. Battery recycling technologies are mature and offer a 
+pathway to reduce imports for copper, cobalt, lithium, and nickel in 2 to 3 years. 
+These technologies aim to recover critical minerals at high rates through chemical 
+leaching and smelting. Experts told GAO, however, that U.S. battery recyclers lack 
+capacity. Additionally, available inputs for recycling (referred to as feedstock) are 
+often landfilled or exported for processing. 
+For semiconductors, most substitution and recycling technologies are likely years 
+away from maturity. Substitution is unlikely to have a near-term effect on import 
+reliance of minerals, such as gallium and indium, because other materials do not 
+perform as well as these critical minerals across the same conditions. Experts told 
+GAO that industry will not adopt substitutes until they can perform at the same 
+level as current semiconductor materials in the intended application. Technologies 
+to recycle minerals from semiconductors also face challenges, such as an 
+underdeveloped market. Semiconductor manufacturing scrap is a potential source 
+of recycled minerals, though this is not yet standard practice in the U.S. Discarded 
+electronics are another potentially large source, but their critical mineral content is 
+low, and those minerals are generally mixed and bonded with other materials. 
+Technologies to recycle this form of electronic waste are in pilot-stage 
+development.
+View GAO-26-108687. For more information, 
+contact Sarah Harvey at HarveyS@gao.gov. 
+Why GAO did this study 
+The U.S. considers 60 minerals as 
+critical because they are essential to 
+the nation’s economy or security and 
+have supply chains vulnerable to 
+disruption. 
+Several critical minerals are key to the 
+functioning of batteries and 
+semiconductors, which have 
+applications in electric vehicles, 
+stationary grid energy storage, 
+consumer electronics, and the defense 
+industry. For example, lithium is a key 
+component of modern batteries that 
+are both lightweight and energy-
+dense. Semiconductors rely on the 
+unique electrical properties of critical 
+minerals such as gallium, germanium, 
+arsenic, and indium. 
+U.S. executive and legislative branch 
+policymakers have a long-standing goal 
+to reduce critical mineral import 
+reliance, through technological 
+innovations and other approaches. 
+This report examines: (1) substitution 
+and recycling technologies to reduce 
+import reliance on critical minerals 
+within the battery and semiconductor 
+industries, (2) challenges to the 
+development and adoption of these 
+technologies, and (3) policy options to 
+support reducing reliance. 
+To conduct this technology 
+assessment, GAO interviewed federal 
+officials and experts and reviewed 
+academic papers, agency and expert 
+documentation, and federal policy. 
+GAO identified four policy options in 
+this report (see next page). 
+
+ 
+ 
+GAO identified four policy options that could support the goal of reducing critical mineral import reliance and help address 
+challenges to recycling and substitution technologies. These options identify possible actions by policymakers, which include 
+legislative bodies, government agencies (federal, state, and local), academia, standards-setting organizations, industry, and other 
+groups. In general, these technologies have potential, with policy action, to reduce some of this reliance in the near, medium, or 
+long term. See below for details on these options. 
+Policymakers could also choose to pursue non-technological policy approaches, such as increased domestic mining. Many non-
+technological approaches are the subject of current and proposed legislation and executive action (see report p. 6). 
+Policy options to support reducing critical mineral import reliance and address challenges to substitution and recycling technologies 
+Policy options 
+Potential implementation approaches 
+Opportunities and considerations 
+Establish domestic 
+manufacturing capacity for 
+viable substitutes (report p. 
+23) 
+Policymakers could consider 
+building or repurposing existing 
+manufacturing capacity to 
+produce substitute 
+technologies for batteries and 
+semiconductors. 
+• Providing support for private capital investments in 
+manufacturing plants for commercially available 
+battery technologies. 
+• Establishing facilities or partnerships to perform 
+pilot-scale testing of semiconductor substitutes. 
+• Domestic manufacturing capacity could allow for 
+near-term production of commercially available 
+substitute technologies like lithium iron 
+phosphate batteries, which could reduce import 
+reliance on critical minerals like cobalt and 
+nickel. 
+• Battery and semiconductor production facilities 
+are costly and tend to be specialized for the 
+production of a particular technology. 
+Establish domestic recycling 
+capacity (report p. 24) 
+Policymakers could build 
+domestic infrastructure to 
+bolster the domestic capacity 
+to recycle batteries and 
+semiconductors. 
+• Providing support for private investment in 
+factories for new battery recycling.  
+• Collecting and sharing data on manufacturing scrap 
+and end-of-life devices containing batteries and 
+semiconductors. 
+• Reviewing and streamlining permitting 
+requirements and hazardous waste designations. 
+• Expanded domestic infrastructure could reduce 
+or eliminate the need to ship partially processed 
+batteries overseas for recycling. 
+• Building domestic recycling infrastructure may 
+not reduce import reliance for selected critical 
+minerals in the near term, since building new or 
+repurposing existing infrastructure can take a 
+decade or more and require significant 
+investment. 
+Secure inputs for recycling 
+(report p. 25) 
+Policymakers could support 
+efforts to collect, sort, 
+transport, and store 
+manufacturing scrap and end-
+of-life devices for recycling and 
+reuse. 
+• Establishing and overseeing national and local 
+electronic waste collection programs that provide 
+education and resources (e.g., drop-off locations) 
+for consumers. 
+• Providing financial incentives for industry to collect 
+or retain manufacturing scrap and end-of-life 
+devices for recycling. 
+• Securing a consistent supply of inputs for 
+recycling and reuse could help reduce the need 
+for critical mineral importation in the near term. 
+• Although mature battery recycling technologies 
+exist, securing additional inputs may exacerbate 
+challenges related to the safety, transportation, 
+and handling of hazardous materials. 
+• Without demand and competitively priced 
+recycled semiconductor materials, it may be 
+difficult for recyclers to scale their operations 
+and offset the amount of imported minerals 
+required in the near term. 
+Support research, 
+development, and testing 
+(report p. 25) 
+Policymakers could continue or 
+grow support for research, 
+development, and testing of 
+substitution and recycling 
+technologies. 
+• Supporting research to improve performance of 
+lithium-free batteries. 
+• Supporting research into battery recycling 
+technologies that reduce or avoid the cost, waste 
+issues, and environmental impact of current 
+techniques. 
+• Encouraging targeted materials research focused 
+on semiconductor substitutes that maintain or 
+enhance material performance and reduce the use 
+of critical minerals when possible. 
+• Supporting research on more efficient 
+semiconductor recycling technologies that recover 
+more critical minerals. 
+• Increased research could help overcome current 
+limitations of existing technologies, resulting in 
+better performance (e.g., higher energy density 
+batteries, larger bandgap semiconductors) or 
+higher commercialization potential (e.g., 
+improved recovery of minerals from 
+semiconductors). 
+• Research, development, and testing efforts may 
+not yield mature technologies in the near term. 
+Source: GAO.  |  GAO-26-108687 
+ 

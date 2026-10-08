@@ -1,0 +1,234 @@
+ 
+ 
+ 
+United States Government Accountability Office 
+  
+Highlights of GAO-22-104371, a report to 
+congressional committees 
+November 2021 
+ TECHNOLOGY ASSESSMENT  
+ 
+Vaccine Development 
+Capabilities and Challenges for Addressing 
+Infectious Diseases 
+What GAO found 
+Vaccines protect people from disease by preparing the body to respond to an 
+infection. Vaccinations are a key part of individual and community health, but 
+vaccine development remains complex and costly. Innovative technologies and 
+approaches, such as those identified in this report, may enhance the nation’s ability 
+to respond to infectious diseases. For example, reverse vaccinology and next-
+generation platforms—combined with existing research—helped researchers 
+develop some COVID-19 vaccines more quickly and effectively.  
+However, key challenges may hinder the adoption of these innovative technologies 
+and approaches. Some promising technologies face issues and challenges such as 
+inherent technical limitations and high cost. For example, organ chips may facilitate 
+testing, but they are not yet able to replicate many of the complex functions of the 
+human immune system. Similarly, single-use systems may increase the flexibility of 
+vaccine manufacturing facilities, but may require extensive testing to ensure that 
+they do not negatively affect the resulting vaccine. Further, economic challenges 
+may hinder vaccine development. Experts attribute underinvestment in vaccines to 
+market failures (i.e., market interactions that fall short of what would have been 
+socially beneficial). For example, vaccines benefit those who are vaccinated, and, to 
+some degree, those who are not. This additional benefit is not captured in the price, 
+which reduces return on vaccine investment. 
+ 
+View GAO-22-104371. For more information, 
+contact Karen L. Howard at (202) 512-6888 
+or, howardk@gao.gov. 
+Why GAO did this study 
+The CARES Act included a provision 
+for GAO to report on its ongoing 
+monitoring and oversight efforts 
+related to the COVID-19 pandemic. 
+This report discusses technologies, 
+approaches, and associated 
+challenges for vaccine (1) research 
+and development, (2) testing, and (3) 
+manufacturing, as well as (4) the 
+economic factors that affect vaccine 
+investment.  
+GAO conducted literature searches 
+including scholarly articles and 
+government reports relevant to these 
+four areas. GAO interviewed 
+stakeholders and experts with a 
+diverse set of perspectives on the 
+science, administration, and 
+economics of vaccine development. 
+GAO also convened a 3-day meeting 
+of 22 experts with expertise in at 
+least one area related to our four 
+objectives with assistance from the 
+National Academies of Sciences, 
+Engineering, and Medicine. GAO 
+received technical comments on a 
+draft of this report from 1 federal 
+agency and 9 participants at its expert 
+meeting, which it incorporated as 
+appropriate. 
+GAO is identifying policy options in 
+this report. 
+
+ 
+ 
+GAO identified 9 policy options that may help address challenges hindering the adoption of vaccine development technologies and 
+approaches or economic challenges. These policy options involve possible new actions by policymakers, who may include Congress, 
+federal agencies, state and local governments, academic and research institutions, and industry. See below for details for some of 
+the policy options and relevant opportunities and considerations. 
+Selected Policy Options to Address Challenges in Vaccine Development 
+ 
+Opportunities 
+Considerations 
+Prioritize infectious disease pathogens 
+(report page 21) 
+Policymakers could collaborate across 
+sectors (e.g., government, academia, 
+researchers, industry, and nonprofit 
+organizations) to prioritize infectious disease 
+pathogens with pandemic potential for 
+vaccine R&D.  
+For example, policymakers could develop a 
+working group to prioritize pathogens with 
+pandemic potential and work more closely 
+with international organizations to prioritize 
+vaccine development as well as develop 
+monoclonal antibodies. 
+• 
+Prioritizing pathogens with pandemic 
+potential could improve strategic vaccine 
+R&D decision-making and help focus 
+resources on developing and adopting key 
+technologies and approaches that most 
+effectively address those pathogens.  
+• 
+Appropriately matching the technologies and 
+approaches to the prioritized potential 
+pandemic pathogens then leveraging 
+technologies may help address certain 
+technical limitations and cost.  
+• 
+With greater leadership and strategic 
+partnerships, policymakers could more 
+quickly address threats to the U.S. 
+population. 
+• 
+As new threats are identified, 
+priorities may change, which may 
+cause uncertainty for vaccine 
+developers. 
+• 
+Policymakers may have different 
+priorities based on their respective 
+missions. 
+• 
+There may be disagreements as to 
+which key technologies should be 
+prioritized and used, resulting in 
+the need for policymakers to weigh 
+the potential advantages and 
+disadvantages associated with 
+various options. 
+Improve preparedness (report page 21) 
+Policymakers could provide support for 
+public-private partnerships to strategically 
+address potential pandemic pathogens 
+identified as priorities. These partnerships 
+could, for example, develop and test 
+vaccine candidates that may provide 
+protection from pathogens with pandemic 
+potential.  
+• 
+This early development could provide a 
+coordinated foundation that can be 
+mobilized in an emergency. Such an approach 
+could speed vaccine development as well as 
+potentially reduce risk for vaccine 
+researchers and developers concerning 
+questions of safety, efficacy, and 
+manufacturability. 
+• 
+The lack of certainty of the 
+commercial market and 
+government funding for vaccines 
+against pathogens with pandemic 
+potential may be too risky for the 
+private sector to undertake. 
+Further support development of data 
+standards (report page 32) 
+Policymakers could further support 
+coordinated efforts to obtain the views of 
+all stakeholders and to develop standards 
+for health data and their use in clinical 
+trials. 
+• 
+Integrating researchers’ needs into the 
+standards development process could better 
+ensure the necessary data are available. 
+• 
+Access to high-quality data in a standardized 
+format may allow streamlined patient 
+recruitment for clinical trials. 
+• 
+Expanding access to patient heath 
+data requires attention to ensure 
+privacy. 
+• 
+Developing and implementing 
+standardized data formats and IT 
+infrastructure is time-consuming 
+and costly. 
+Improve preparedness (report page 41) 
+Policymakers could provide support 
+for public/private partnerships to 
+strategically develop manufacturing 
+capacity to respond to surge 
+requirements. To maintain this 
+capacity, partnerships could 
+manufacture prototype vaccine 
+candidates against high-priority 
+pathogens. 
+• 
+Manufacturing, testing, and stockpiling 
+vaccines could be mobilized in an 
+emergency and more rapidly mitigate 
+future pandemics. 
+• 
+By leveraging strategic partnerships, 
+policymakers could take steps to increase the 
+availability of vaccines to more quickly 
+address threats to the U.S. population. 
+• 
+May require new resources or 
+reallocation of resources from 
+other efforts. 
+• 
+There may be a risk that the 
+vaccines manufactured, tested, 
+and stockpiled against prioritized 
+pathogen classes miss certain 
+pandemic pathogens.  
+• 
+The stockpiled vaccines would 
+need to be regularly replenished 
+prior to expiration. 
+Evaluate factors that inhibit vaccine 
+investment and mechanisms to increase it 
+(report page 54) 
+Policymakers could collaborate across 
+sectors, such as government, academia, 
+and industry, to conduct a systematic 
+evaluation of factors that inhibit 
+developers from investing in new vaccines. 
+• 
+A clear understanding of the range of 
+factors discouraging vaccine investment 
+would provide the basis for effectively 
+addressing those factors. 
+• 
+Collaboration between 
+policymakers and other 
+stakeholders to obtain all 
+relevant viewpoints can be time-
+consuming and it may be hard to 
+reach a consensus. 
+Source: GAO.  |  GAO-22-104371 

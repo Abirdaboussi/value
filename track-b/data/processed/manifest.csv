@@ -1,0 +1,6 @@
+doc_id,report_path,highlight_path,report_page_count,report_token_count,highlight_word_count,ok
+gao-20-215sp,D:\university\Value-Stage\track-b\data\processed\reports_txt\gao-20-215sp.txt,D:\university\Value-Stage\track-b\data\processed\references_txt\gao-20-215sp.txt,86,45529,1249,True
+gao-22-104371,D:\university\Value-Stage\track-b\data\processed\reports_txt\gao-22-104371.txt,D:\university\Value-Stage\track-b\data\processed\references_txt\gao-22-104371.txt,84,47222,1095,True
+gao-23-105430,D:\university\Value-Stage\track-b\data\processed\reports_txt\gao-23-105430.txt,D:\university\Value-Stage\track-b\data\processed\references_txt\gao-23-105430.txt,55,26641,940,True
+gao-25-107335,D:\university\Value-Stage\track-b\data\processed\reports_txt\gao-25-107335.txt,D:\university\Value-Stage\track-b\data\processed\references_txt\gao-25-107335.txt,48,25607,1031,True
+gao-26-108687,D:\university\Value-Stage\track-b\data\processed\reports_txt\gao-26-108687.txt,D:\university\Value-Stage\track-b\data\processed\references_txt\gao-26-108687.txt,39,17380,1195,True
